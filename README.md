@@ -1,3 +1,3 @@
-# Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation
+# 1st Workshop on Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation
 
-Proposed R:SS 2019 Workshop Event
+June 2019, R:SS 2019, Freiburg, Germany
