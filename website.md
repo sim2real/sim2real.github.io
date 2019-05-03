@@ -86,7 +86,7 @@ Submissions must be in PDF following the IEEE style available from
 * Submission Deadline: June 3, 2019
 * Notification of Acceptance: June 11, 2019
 * Camera ready submission: June 20, 2019
-* Workshop: *date and time to be confirmed*
+* Workshop: June 23, 2019 (full day)
 
 
 <a name="schedule"/>
@@ -100,7 +100,7 @@ Submissions must be in PDF following the IEEE style available from
 | 10:30 - 11:00 | Posters / Coffee                                                   |
 | 11:00 - 12:15 |  Invited Talks:Sim2real for Grasping                               |
 |               | Lunch break                                                        |
-| 14:00 - 15:15 | Invited Talks: Simulation for Manipulation and Sim2real Locomotion |
+| 14:00 - 15:15 | Invited Talks: Simulating Manipulation and Sim2real for Locomotion |
 | 15:15 - 16:15 | Posters / Coffee                                                   |
 | 16:15 - 17:30 | Invited Talks: Sim2real for Manipulation II                        |
 | 17:30 - 18:30 | Speaker Panel                                                      |
