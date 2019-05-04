@@ -86,13 +86,6 @@ Submissions must be in PDF following the IEEE style available from
 * Notification of Acceptance: June 11, 2019
 * Camera ready submission: June 19, 2019
 * Workshop: June 23, 2019 (full day)
-<!--
-* Submission Deadline: June 3, 2019
-* Notification of Acceptance: June 11, 2019
-* Camera ready submission: June 20, 2019
-* Workshop: June 23, 2019 (full day)
--->
-
 
 <a name="schedule"/>
 ## Schedule <a href="#toc" class="top-link">[Top]</a>
