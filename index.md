@@ -77,15 +77,21 @@ Submissions must be in PDF following the IEEE style available from
 
 [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 
-*More submission information coming soon*
+*Submission website will be available shortly*
 
 <a name="dates"/>
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
+* Submission Deadline: May 31, 2019
+* Notification of Acceptance: June 11, 2019
+* Camera ready submission: June 19, 2019
+* Workshop: June 23, 2019 (full day)
+<!--
 * Submission Deadline: June 3, 2019
 * Notification of Acceptance: June 11, 2019
 * Camera ready submission: June 20, 2019
 * Workshop: June 23, 2019 (full day)
+-->
 
 
 <a name="schedule"/>
