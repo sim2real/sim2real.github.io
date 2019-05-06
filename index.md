@@ -77,7 +77,7 @@ Submissions must be in PDF following the IEEE style available from
 
 [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 
-*Submission website will be available shortly*
+**Submission website:** https://cmt3.research.microsoft.com/SIMREALRM2019
 
 <a name="dates"/>
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
