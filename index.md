@@ -92,8 +92,8 @@ Submissions must be in PDF following the IEEE style available from
 
 *Note:* Schedule is tentative and subject to changes.
 
-| 8:15 - 8:30   | Welcome and introduction                                           |
 |---------------|--------------------------------------------------------------------|
+| 8:15 - 8:30   | Welcome and introduction                                           |
 | 8:30 - 10:30  | Invited Talks: Sim2real for Manipulation I                         |
 | 10:30 - 11:00 | Posters / Coffee                                                   |
 | 11:00 - 12:15 |  Invited Talks:Sim2real for Grasping                               |
