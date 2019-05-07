@@ -65,6 +65,7 @@ Simulation draws its appeal from the fact that it is much faster, cheaper, safer
   - Is domain randomization a good way forward when scaling up problems to high-dimensional robot embodiments?
 - **Simulation software and datasets**: What are missing features in current simulation software required for sim2real for manipulation? Are there manipulation-specific datasets we imagine to be useful for sim2real for manipulation?
 - What are **other approaches for advancing manipulation with sim2real** that are not listed here?
+- What can manipulation learn from **sim2real approaches in other domains**? (Computer vision, autonomous driving, navigation, etc.)
 
 <a name="call"/>
 ## Call for Contributions <a href="#toc" class="top-link">[Top]</a>
