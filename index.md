@@ -94,15 +94,16 @@ Submissions must be in PDF following the IEEE style available from
 *Note:* Schedule is tentative and subject to changes.
 
 |---------------|--------------------------------------------------------------------|
-| 8:15 - 8:30   | Welcome and introduction                                           |
-| 8:30 - 10:30  | Invited Talks: Sim2real for Manipulation I                         |
-| 10:30 - 11:00 | Posters / Coffee                                                   |
-| 11:00 - 12:15 |  Invited Talks:Sim2real for Grasping                               |
-|               | Lunch break                                                        |
-| 14:00 - 15:15 | Invited Talks: Simulating Manipulation and Sim2real for Locomotion |
-| 15:15 - 16:15 | Posters / Coffee                                                   |
-| 16:15 - 17:30 | Invited Talks: Sim2real for Manipulation II                        |
-| 17:30 - 18:30 | Speaker Panel                                                      |
+| 8:30 - 9:00   | Welcome and introduction                                           |
+| 9:00 - 10:15  | Invited Talks: Sim2real for Manipulation I                         |
+| 10:15 - 10:45 | Posters teasers                                                    |
+| 10:45 - 11:30 | *Posters / Coffee*                                                   |
+| 11:30 - 12:45 | Invited Talks: Sim2real for Grasping                               |
+| 12:45 - 13:30 | *Lunch break*                                                        |
+| 13:30 - 14:30 | Invited Talks: Sim2real for Locomotion |
+| 14:30 - 15:15 | *Posters / Coffee*                                                   |
+| 15:15 - 17:00 | Invited Talks: Sim2real for Manipulation II                        |
+| 17:00 - 18:00 | Speaker Panel                                                      |
 
 <a name="venue"/>
 ## Venue <a href="#toc" class="top-link">[Top]</a>
