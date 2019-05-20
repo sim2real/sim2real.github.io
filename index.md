@@ -88,19 +88,44 @@ Submissions must be in PDF following the IEEE style available from
 <a name="schedule"/>
 ## Schedule <a href="#toc" class="top-link">[Top]</a>
 
-*Note:* Schedule is tentative and subject to changes.
+**The most up-to-date schedule can be found on our *Google calendar***:
+ [*[View](https://calendar.google.com/calendar/embed?src=cd5ddd82tddp4hjs0p8kacem9k%40group.calendar.google.com&ctz=Europe%2FBerlin&mode=AGENDA)*]
+ [*[Subscribe](https://calendar.google.com/calendar?cid=Y2Q1ZGRkODJ0ZGRwNGhqczBwOGthY2VtOWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)*]
+
+ *Note:* Schedule is tentative and subject to changes.
 
 |---------------|--------------------------------------------------------------------|
-| 8:30 - 9:00   | Welcome and introduction                                           |
-| 9:00 - 10:15  | Invited Talks: Sim2real for Manipulation I                         |
-| 10:15 - 10:45 | Posters teasers                                                    |
-| 10:45 - 11:30 | *Posters / Coffee*                                                   |
-| 11:30 - 12:45 | Invited Talks: Sim2real for Grasping                               |
-| 12:45 - 13:30 | *Lunch break*                                                        |
-| 13:30 - 14:30 | Invited Talks: Sim2real for Locomotion |
-| 14:30 - 15:15 | *Posters / Coffee*                                                   |
-| 15:15 - 17:00 | Invited Talks: Sim2real for Manipulation II                        |
-| 17:00 - 18:00 | Speaker Panel                                                      |
+| 08:45 - 09:20 | *Welcome and introduction*                                           |
+|---------------|--------------------------------------------------------------------|
+|  | Session 1: Sim2real for Manipulation I  |
+| 09:25 - 09:50 | **Kris Hauser**: *TBA*                         |
+| 09:50 - 10:15 | **Gilwoo Lee**: *TBA*                                                    |
+|---------------|--------------------------------------------------------------------|
+| 10:15 - 10:45 | *Poster Teasers*                                                   |
+|---------------|--------------------------------------------------------------------|
+| 10:45 - 11:30 | Posters Session I / Coffee Break                                                   |
+|---------------|--------------------------------------------------------------------|
+|  | Session 2: Sim2real for Grasping |
+| 11:35 - 12:00 | **Edward Johns**: *Zero-shot sim-to-real transfer for robotic grasping* |
+| 12:00 - 12:25 | **Josh Tobin**: *TBA*                               |
+| 12:25 - 12:45 | **Yunfei Bai**: *Learning to grasp using simulation and deep learning* |
+|---------------|--------------------------------------------------------------------|
+| 12:45 - 13:30 | Lunch break                                                        |
+|---------------|--------------------------------------------------------------------|
+|  | Session 3: Sim2real for Locomotion |
+| 13:35 - 14:00 | **Erwin Coumans**: *Sim-to-real for quadruped locomotion* |
+| 14:00 - 14:25 | **Jean-Baptiste Mouret**: *TBA* |
+|---------------|--------------------------------------------------------------------|
+| 14:30 - 15:15 | Posters Session II / Coffee Break                                                   |
+|---------------|--------------------------------------------------------------------|
+|  | Session 4: Sim2real for Manipulation I  |
+| 15:20 - 15:45 | **Fereshteh Sadeghi**: *TBA* |
+| 15:45 - 16:10 | **Emo Todorov**: *TBA* |
+| 16:10 - 16:35 | **Russ Tedrake**: *Robust full-stack manipulation (perception, planning, <br/>and control)  via simulation-based design and verification* |
+| 16:35 - 17:00 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |
+|---------------|--------------------------------------------------------------------|
+| 17:00 - 18:00 | *Speaker Panel Discussion*  |
+|---------------|--------------------------------------------------------------------|
 
 <a name="venue"/>
 ## Venue <a href="#toc" class="top-link">[Top]</a>
