@@ -32,13 +32,9 @@ Simulation draws its appeal from the fact that it is much faster, cheaper, safer
 
 
 <a name="speakers"/>
-
 ## Invited Speakers <a href="#toc" class="top-link">[Top]</a>
 
-
-
 - Yunfei Bai (X)
-- Feryal Behbahani (Latent Logic)
 - Erwin Coumans (Google Brain)
 - Chelsea Finn (UC Berkeley / Stanford / Google Brain)
 - Kris Hauser (Duke)
@@ -49,6 +45,7 @@ Simulation draws its appeal from the fact that it is much faster, cheaper, safer
 - Russ Tedrake (MIT)
 - Josh Tobin (UC Berkeley / Open AI)
 - Emo Todorov (University of Washington)
+
 
 <a name="topics"/>
 ## Topics <a href="#toc" class="top-link">[Top]</a>
