@@ -114,7 +114,7 @@ Submissions must be in PDF following the IEEE style available from
 |---------------|--------------------------------------------------------------------|
 |  | Session 3: Sim2real for Locomotion |
 | 13:35 - 14:00 | **Erwin Coumans**: *Sim-to-real for quadruped locomotion* |
-| 14:00 - 14:25 | **Jean-Baptiste Mouret**: *TBA* |
+| 14:00 - 14:25 | **Jean-Baptiste Mouret**: *Data-efficient Adaptation to Damage is a Reality Gap Problem* |
 |---------------|--------------------------------------------------------------------|
 | 14:30 - 15:15 | Posters Session II / Coffee Break                                                   |
 |---------------|--------------------------------------------------------------------|
