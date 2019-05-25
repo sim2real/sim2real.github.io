@@ -107,7 +107,7 @@ Submissions must be in PDF following the IEEE style available from
 |---------------|--------------------------------------------------------------------|
 |  | Session 2: Sim2real for Grasping |
 | 11:35 - 12:00 | **Edward Johns**: *Zero-shot sim-to-real transfer for robotic grasping* |
-| 12:00 - 12:25 | **Josh Tobin**: *TBA*                               |
+| 12:00 - 12:25 | **Josh Tobin**: *Beyond Domain Randomization.*                               |
 | 12:25 - 12:45 | **Yunfei Bai**: *Learning to grasp using simulation and deep learning* |
 |---------------|--------------------------------------------------------------------|
 | 12:45 - 13:30 | Lunch break                                                        |
