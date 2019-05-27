@@ -119,7 +119,7 @@ Submissions must be in PDF following the IEEE style available from
 | 14:30 - 15:15 | Posters Session II / Coffee Break                                                   |
 |---------------|--------------------------------------------------------------------|
 |  | Session 4: Sim2real for Manipulation I  |
-| 15:20 - 15:45 | **Fereshteh Sadeghi**: *TBA* |
+| 15:20 - 15:45 | **Fereshteh Sadeghi**: *Domain Invariant Semantic Robot Navigation* |
 | 15:45 - 16:10 | **Emo Todorov**: *Robustness of model-based control* |
 | 16:10 - 16:35 | **Russ Tedrake**: *Robust full-stack manipulation (perception, planning, <br/>and control)  via simulation-based design and verification* |
 | 16:35 - 17:00 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |
