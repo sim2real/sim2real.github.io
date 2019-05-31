@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<div align="center">
+<h3 style="font-color: darkred;">NEWS: The submission deadline has been extended to <i>June 3, 2019</i></h3>
+</div>
+
+----
+
 <a name="toc"/>
 
 <div style="text-align: center; font-size: 0.8em;">
@@ -67,20 +73,21 @@ Simulation draws its appeal from the fact that it is much faster, cheaper, safer
 <a name="call"/>
 ## Call for Contributions <a href="#toc" class="top-link">[Top]</a>
 
-Participants are invited to submit **extended abstracts (maximum 2 pages in length)** related to the aforementioned topics.
+Participants are invited to submit **extended abstracts (maximum 2 pages in length, excluding references)** related to the aforementioned topics.
 
 Accepted abstracts will receive a poster presentation slot and, if equipment is available, a video presentation slot during the poster session.
 
-Submissions must be in PDF following the IEEE style available from
-
-[https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
+* Submissions must not exceed *2 pages in length, excluding references*.
+* Submissions must be in PDF following the IEEE style available from<br/>
+  [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
+* Submissions must include a short abstract. The *extended abstract* should go in the main section of the template and the *short abstract* in the abstract section.
 
 **Submission website:** [https://cmt3.research.microsoft.com/SIMREALRM2019](https://cmt3.research.microsoft.com/SIMREALRM2019)
 
 <a name="dates"/>
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
-* Submission Deadline: May 31, 2019
+* Submission Deadline: June 3, 2019 <s>May 31, 2019</s>
 * Notification of Acceptance: June 11, 2019
 * Camera ready submission: June 19, 2019
 * Workshop: June 23, 2019 (full day)
