@@ -102,13 +102,14 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
  *Note:* Schedule is tentative and subject to changes.
 
 |---------------|--------------------------------------------------------------------|
-| 08:45 - 09:20 | *Welcome and introduction*                                           |
+| 09:00 - 09:15 | *Welcome and introduction*                                           |
 |---------------|--------------------------------------------------------------------|
 |  | Session 1: Sim2real for Manipulation I  |
-| 09:25 - 09:50 | **Kris Hauser**: *TBA*                         |
-| 09:50 - 10:15 | **Gilwoo Lee**: *TBA*                                                    |
+| 09:15 - 09:40 | **Kris Hauser**: *TBA*                         |
+| 09:40 - 10:05 | **Gilwoo Lee**: *TBA*                                                    |
+| 10:05 - 10:30 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |                                         |
 |---------------|--------------------------------------------------------------------|
-| 10:15 - 10:45 | *Poster Teasers*                                                   |
+| 10:30 - 10:45 | *Poster Teasers*                                                   |
 |---------------|--------------------------------------------------------------------|
 | 10:45 - 11:30 | Posters Session I / Coffee Break                                                   |
 |---------------|--------------------------------------------------------------------|
@@ -129,9 +130,8 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 | 15:20 - 15:45 | **Fereshteh Sadeghi**: *Domain Invariant Semantic Robot Navigation* |
 | 15:45 - 16:10 | **Emo Todorov**: *Robustness of model-based control* |
 | 16:10 - 16:35 | **Russ Tedrake**: *Robust full-stack manipulation (perception, planning, <br/>and control)  via simulation-based design and verification* |
-| 16:35 - 17:00 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |
 |---------------|--------------------------------------------------------------------|
-| 17:00 - 18:00 | *Speaker Panel Discussion*  |
+| 16:45 - 17:30 | *Speaker Panel Discussion*  |
 |---------------|--------------------------------------------------------------------|
 
 <a name="venue"/>
