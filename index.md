@@ -137,7 +137,11 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 <a name="venue"/>
 ## Venue <a href="#toc" class="top-link">[Top]</a>
 
-Please check out the [RSS website](http://roboticsconference.org/attending/venue/) and [Google maps](https://goo.gl/maps/2iwdEFKUh1m) for detailed information on the workshop’s location. The room will be announced shortly.
+The workshop is taking place in **Building 101, Room 00 026**.
+
+The poster sessions will take place in **Building 101, Room 00 019**.
+
+Please check out the [RSS website](http://roboticsconference.org/attending/venue/) and [Google maps](https://goo.gl/maps/2iwdEFKUh1m) for more detailed information on the workshop’s location. 
 
 <a name="organizers"/>
 ## Organizers <a href="#toc" class="top-link">[Top]</a>
