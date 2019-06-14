@@ -105,7 +105,7 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 | 09:00 - 09:15 | *Welcome and introduction*                                           |
 |---------------|--------------------------------------------------------------------|
 |  | Session 1: Sim2real for Manipulation I  |
-| 09:15 - 09:40 | **Kris Hauser**: *TBA*                         |
+| 09:15 - 09:40 | **Kris Hauser**: *Real2sim: generalizable learning to simulate complex contact phenomena*                         |
 | 09:40 - 10:05 | **Gilwoo Lee**: *TBA*                                                    |
 | 10:05 - 10:30 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |                                         |
 |---------------|--------------------------------------------------------------------|
