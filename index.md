@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-<h3 style="font-color: darkred;">NEWS: The submission deadline has been extended to <i>June 3, 2019</i></h3>
+<h3 style="font-color: darkred;">NEWS: Acceptance decision date has been delayed to <i>June 17, 2019</i></h3>
 </div>
 
 ----
@@ -88,8 +88,8 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
 * Submission Deadline: June 3, 2019 <s>May 31, 2019</s>
-* Notification of Acceptance: June 14, 2019 <s>June 11, 2019</s>
-* Camera ready submission: June 19, 2019
+* Notification of Acceptance: **June 17, 2019** <s>June 14, 2019</s>
+* Camera ready submission: June 21, 2019 <s>June 19, 2019</s>
 * Workshop: June 23, 2019 (full day)
 
 <a name="schedule"/>
