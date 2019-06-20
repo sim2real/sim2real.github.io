@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-<h3 style="font-color: darkred;">NEWS: Acceptance decision date has been delayed to <i>June 17, 2019</i></h3>
+<h3 style="font-color: darkgreen;">NEWS: Final schedule is online</h3>
 </div>
 
 ----
@@ -99,14 +99,12 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
  [*[View](https://calendar.google.com/calendar/embed?src=cd5ddd82tddp4hjs0p8kacem9k%40group.calendar.google.com&ctz=Europe%2FBerlin&mode=AGENDA)*]
  [*[Subscribe](https://calendar.google.com/calendar?cid=Y2Q1ZGRkODJ0ZGRwNGhqczBwOGthY2VtOWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)*]
 
- *Note:* Schedule is tentative and subject to changes.
-
 |---------------|--------------------------------------------------------------------|
 | 09:00 - 09:15 | *Welcome and introduction*                                           |
 |---------------|--------------------------------------------------------------------|
 |  | Session 1: Sim2real for Manipulation I  |
 | 09:15 - 09:40 | **Kris Hauser**: *Real2sim: generalizable learning to simulate complex contact phenomena*                         |
-| 09:40 - 10:05 | **Gilwoo Lee**: *TBA*                                                    |
+| 09:40 - 10:05 | **Gilwoo Lee**: *Bayes-optimal reinforcement learning for sim2real adaptation*                                                    |
 | 10:05 - 10:30 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |                                         |
 |---------------|--------------------------------------------------------------------|
 | 10:30 - 10:45 | *Poster Teasers*                                                   |
@@ -131,7 +129,7 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 | 15:45 - 16:10 | **Emo Todorov**: *Robustness of model-based control* |
 | 16:10 - 16:35 | **Russ Tedrake**: *Robust full-stack manipulation (perception, planning, <br/>and control)  via simulation-based design and verification* |
 |---------------|--------------------------------------------------------------------|
-| 16:45 - 17:30 | *Speaker Panel Discussion*  |
+| 16:45 - 17:30 | *Speaker Panel Discussion*   |
 |---------------|--------------------------------------------------------------------|
 
 <a name="venue"/>
