@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-<h3 style="font-color: darkgreen;">NEWS: Final schedule is online</h3>
+<h3 style="font-color: darkgreen;">NEWS: Camera-ready of accepted papers are online</h3>
 </div>
 
 ----
@@ -97,16 +97,16 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 <a name="papers"/>
 ## Accepted Papers <a href="#toc" class="top-link">[Top]</a>
 
-* Adam Allevato, Elaine Short, Mitch Pryor, Andrea Thomaz - TuneNet: One-Shot Simulation Tuning for Physics Prediction and Robot Task Planning [<a href="allevato.pdf">pdf</a>]
-* Brayan S. Zapata-Impata, Pablo Gil, Fernando Torres  - vision2tactile: Feeling Touch by Sight [<a href="zapata.pdf">pdf</a>]
-* Diego Ferigo, Silvio Traversaro, Daniele Pucci  - Gym-Ignition: Reproducible Robotic Simulations for Reinforcement Learning [<a href="ferigo.pdf">pdf</a>]
-* Eric Heiden, David R Millard, Gaurav Sukhatme  - Real2Sim Transfer using Differentiable Physics [<a href="heiden.pdf">pdf</a>]
-* Jakob Hollenstein, Justus Piater  - Evaluating Planning for Policy Search [<a href="hollenstein.pdf">pdf</a>]
-* Jonas Kiemel - PaintRL: Coverage Path Planning for Industrial Spray Painting with Reinforcement Learning [<a href="kiemel.pdf">pdf</a>]
-* Joshua P. Powers, Dylan Shah  - Sim2real of soft-bodied, shape-changing robots [<a href="powers.pdf">pdf</a>]
-* Kent A. Rosser - Sim2real transfer degrades non-monotonically with morphological complexity for flapping wing design [<a href="rosser.pdf">pdf</a>]
-* Manuel Kaspar, Jürgen Bock - Reinforcement Learning with Cartesian Commands andSim to Real Transfer for Peg in Hole Tasks [<a href="kaspar.pdf">pdf</a>]
-* Max K. Nielsen - Data Driven Inverse Kinematics of Soft Robots created using Geometrical Constraints ensuring Safe Manufacturing [<a href="nielsen.pdf">pdf</a>]
+* Adam Allevato, Elaine Short, Mitch Pryor, Andrea Thomaz - TuneNet: One-Shot Simulation Tuning for Physics Prediction and Robot Task Planning [<a href="assets/papers/allevato.pdf">pdf</a>]
+* Brayan S. Zapata-Impata, Pablo Gil, Fernando Torres  - vision2tactile: Feeling Touch by Sight [<a href="assets/papers/zapata.pdf">pdf</a>]
+* Diego Ferigo, Silvio Traversaro, Daniele Pucci  - Gym-Ignition: Reproducible Robotic Simulations for Reinforcement Learning [<a href="assets/papers/ferigo.pdf">pdf</a>]
+* Eric Heiden, David R Millard, Gaurav Sukhatme  - Real2Sim Transfer using Differentiable Physics [<a href="assets/papers/heiden.pdf">pdf</a>]
+* Jakob Hollenstein, Justus Piater  - Evaluating Planning for Policy Search [<a href="assets/papers/hollenstein.pdf">pdf</a>]
+* Jonas Kiemel - PaintRL: Coverage Path Planning for Industrial Spray Painting with Reinforcement Learning [<a href="assets/papers/kiemel.pdf">pdf</a>]
+* Joshua P. Powers, Dylan Shah  - Sim2real of soft-bodied, shape-changing robots [<a href="assets/papers/powers.pdf">pdf</a>]
+* Kent A. Rosser - Sim2real transfer degrades non-monotonically with morphological complexity for flapping wing design [<a href="assets/papers/rosser.pdf">pdf</a>]
+* Manuel Kaspar, Jürgen Bock - Reinforcement Learning with Cartesian Commands andSim to Real Transfer for Peg in Hole Tasks [<a href="assets/papers/kaspar.pdf">pdf</a>]
+* Max K. Nielsen - Data Driven Inverse Kinematics of Soft Robots created using Geometrical Constraints ensuring Safe Manufacturing [<a href="assets/papers/nielsen.pdf">pdf</a>]
 
 
 <a name="schedule"/>
