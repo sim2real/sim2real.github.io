@@ -16,6 +16,7 @@ layout: default
 <a href="#topics">Topics</a> &middot;
 <a href="#call">Call for Contributions</a> &middot;
 <a href="#dates">Important Dates</a> &middot;
+<a href="#papers">Accepted Papers</a> &middot;
 <a href="#schedule">Schedule</a> &middot;
 <a href="#venue">Venue</a> &middot;
 <a href="#organizers">Organizers</a>
@@ -91,6 +92,22 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 * Notification of Acceptance: **June 17, 2019** <s>June 14, 2019</s>
 * Camera ready submission: June 21, 2019 <s>June 19, 2019</s>
 * Workshop: June 23, 2019 (full day)
+
+
+<a name="papers"/>
+## Accepted Papers <a href="#toc" class="top-link">[Top]</a>
+
+* Adam Allevato, Elaine Short, Mitch Pryor, Andrea Thomaz - TuneNet: One-Shot Simulation Tuning for Physics Prediction and Robot Task Planning [<a href="allevato.pdf">pdf</a>]
+* Brayan S. Zapata-Impata, Pablo Gil, Fernando Torres  - vision2tactile: Feeling Touch by Sight [<a href="zapata.pdf">pdf</a>]
+* Diego Ferigo, Silvio Traversaro, Daniele Pucci  - Gym-Ignition: Reproducible Robotic Simulations for Reinforcement Learning [<a href="ferigo.pdf">pdf</a>]
+* Eric Heiden, David R Millard, Gaurav Sukhatme  - Real2Sim Transfer using Differentiable Physics [<a href="heiden.pdf">pdf</a>]
+* Jakob Hollenstein, Justus Piater  - Evaluating Planning for Policy Search [<a href="hollenstein.pdf">pdf</a>]
+* Jonas Kiemel - PaintRL: Coverage Path Planning for Industrial Spray Painting with Reinforcement Learning [<a href="kiemel.pdf">pdf</a>]
+* Joshua P. Powers, Dylan Shah  - Sim2real of soft-bodied, shape-changing robots [<a href="powers.pdf">pdf</a>]
+* Kent A. Rosser - Sim2real transfer degrades non-monotonically with morphological complexity for flapping wing design [<a href="rosser.pdf">pdf</a>]
+* Manuel Kaspar, Jürgen Bock - Reinforcement Learning with Cartesian Commands andSim to Real Transfer for Peg in Hole Tasks [<a href="kaspar.pdf">pdf</a>]
+* Max K. Nielsen - Data Driven Inverse Kinematics of Soft Robots created using Geometrical Constraints ensuring Safe Manufacturing [<a href="nielsen.pdf">pdf</a>]
+
 
 <a name="schedule"/>
 ## Schedule <a href="#toc" class="top-link">[Top]</a>
