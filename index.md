@@ -120,7 +120,7 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 | 09:00 - 09:15 | *Welcome and introduction*                                           |
 |---------------|--------------------------------------------------------------------|
 |  | Session 1: Sim2real for Manipulation I  |
-| 09:15 - 09:40 | **Kris Hauser**: *Real2sim: generalizable learning to simulate complex contact phenomena* [<a href="asserts/slides/hauser_RSS2019_Workshop_Sim2Real.pptx">slides</a>]                        |
+| 09:15 - 09:40 | **Kris Hauser**: *Real2sim: generalizable learning to simulate complex contact phenomena* [<a href="assets/slides/hauser_RSS2019_Workshop_Sim2Real.pptx">slides</a>]                        |
 | 09:40 - 10:05 | **Gilwoo Lee**: *Bayes-optimal reinforcement learning for sim2real adaptation*                                                    |
 | 10:05 - 10:30 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |                                         |
 |---------------|--------------------------------------------------------------------|
@@ -130,21 +130,21 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 |---------------|--------------------------------------------------------------------|
 |  | Session 2: Sim2real for Grasping |
 | 11:35 - 12:00 | **Edward Johns**: *Three Benefits of Simulators for Zero-Shot Transfer* |
-| 12:00 - 12:25 | **Josh Tobin**: *Beyond Domain Randomization.* [<a href="asserts/slides/tobin_BeyondDomainRandomization_Tobin_RSS19.pdf">slides</a>]                              |
+| 12:00 - 12:25 | **Josh Tobin**: *Beyond Domain Randomization.* [<a href="assets/slides/tobin_BeyondDomainRandomization_Tobin_RSS19.pdf">slides</a>]                              |
 | 12:25 - 12:45 | **Yunfei Bai**: *Learning to grasp using simulation and deep learning* |
 |---------------|--------------------------------------------------------------------|
 | 12:45 - 13:30 | Lunch break                                                        |
 |---------------|--------------------------------------------------------------------|
 |  | Session 3: Sim2real for Locomotion |
 | 13:35 - 14:00 | **Erwin Coumans**: *Sim-to-real for quadruped locomotion* |
-| 14:00 - 14:25 | **Jean-Baptiste Mouret**: *Data-efficient Adaptation to Damage is a Reality Gap Problem* [<a href="asserts/slides/mouret_rss_reality_gap-light.pdf">slides</a>] |
+| 14:00 - 14:25 | **Jean-Baptiste Mouret**: *Data-efficient Adaptation to Damage is a Reality Gap Problem* [<a href="assets/slides/mouret_rss_reality_gap-light.pdf">slides</a>] |
 |---------------|--------------------------------------------------------------------|
 | 14:30 - 15:15 | Posters Session II / Coffee Break                                                   |
 |---------------|--------------------------------------------------------------------|
 |  | Session 4: Sim2real for Manipulation I  |
 | 15:20 - 15:45 | **Fereshteh Sadeghi**: *Domain Invariant Semantic Robot Navigation* |
-| 15:45 - 16:10 | **Emo Todorov**: *Robustness of model-based control* [<a href="asserts/slides/todorov_RSS_Todorov.pdf">slides</a>] |
-| 16:10 - 16:35 | **Russ Tedrake**: *Robust full-stack manipulation (perception, planning, <br/>and control)  via simulation-based design and verification* [<a href="asserts/slides/tedrake_2019-06-23 RSS Sim2Real Tedrake.pdf">slides</a>] |
+| 15:45 - 16:10 | **Emo Todorov**: *Robustness of model-based control* [<a href="assets/slides/todorov_RSS_Todorov.pdf">slides</a>] |
+| 16:10 - 16:35 | **Russ Tedrake**: *Robust full-stack manipulation (perception, planning, <br/>and control)  via simulation-based design and verification* [<a href="assets/slides/tedrake_2019-06-23 RSS Sim2Real Tedrake.pdf">slides</a>] |
 |---------------|--------------------------------------------------------------------|
 | 16:45 - 17:30 | *Speaker Panel Discussion*   |
 |---------------|--------------------------------------------------------------------|
