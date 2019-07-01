@@ -136,7 +136,7 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 | 12:45 - 13:30 | Lunch break                                                        |
 |---------------|--------------------------------------------------------------------|
 |  | Session 3: Sim2real for Locomotion |
-| 13:35 - 14:00 | **Erwin Coumans**: *Sim-to-real for quadruped locomotion* [<a href="assets/slides/coumans_Sim-to-Real for Quadruped Locomotion">slides</a>] |
+| 13:35 - 14:00 | **Erwin Coumans**: *Sim-to-real for quadruped locomotion* [<a href="https://drive.google.com/file/d/1cnYzhKEdjWK88G6WybAQgk6SyAHAGN0O/view?usp=sharing">slides</a>] |
 | 14:00 - 14:25 | **Jean-Baptiste Mouret**: *Data-efficient Adaptation to Damage is a Reality Gap Problem* [<a href="assets/slides/mouret_rss_reality_gap-light.pdf">slides</a>] |
 |---------------|--------------------------------------------------------------------|
 | 14:30 - 15:15 | Posters Session II / Coffee Break                                                   |
