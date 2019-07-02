@@ -122,7 +122,7 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 |  | Session 1: Sim2real for Manipulation I  |
 | 09:15 - 09:40 | **Kris Hauser**: *Real2sim: generalizable learning to simulate complex contact phenomena* [<a href="assets/slides/hauser_RSS2019_Workshop_Sim2Real.pptx">slides</a>]                        |
 | 09:40 - 10:05 | **Gilwoo Lee**: *Bayes-optimal reinforcement learning for sim2real adaptation*                                                    |
-| 10:05 - 10:30 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* |                                         |
+| 10:05 - 10:30 | **Chelsea Finn**: *Learning and Adapting in Diverse, Dynamic Environments* [<a href="assets/slides/finn_rss19_sim2real.pdf">slides</a>] |                                         |
 |---------------|--------------------------------------------------------------------|
 | 10:30 - 10:45 | *Poster Teasers*                                                   |
 |---------------|--------------------------------------------------------------------|
