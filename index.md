@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-<h3 style="font-color: darkgreen;">NEWS: Camera-ready of accepted papers are online</h3>
+<h3 style="font-color: darkgreen;">NEWS: Camera-ready of accepted papers & speakers slides are online</h3>
 </div>
 
 ----
