@@ -129,7 +129,7 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 | 10:45 - 11:30 | Posters Session I / Coffee Break                                                   |
 |---------------|--------------------------------------------------------------------|
 |  | Session 2: Sim2real for Grasping |
-| 11:35 - 12:00 | **Edward Johns**: *Three Benefits of Simulators for Zero-Shot Transfer* [<a href="https://www.dropbox.com/s/tsgnftbhuzewztw/edward_johns_rss_2019_sim2real_workshop.pptx?dl=1">slides</a>] |
+| 11:35 - 12:00 | **Edward Johns**: *Three Benefits of Simulators for Zero-Shot Transfer* [<a href="assets/slides/johns_rss_2019_sim2real_workshop.pdf">slides</a>] |
 | 12:00 - 12:25 | **Josh Tobin**: *Beyond Domain Randomization.* [<a href="assets/slides/tobin_BeyondDomainRandomization_Tobin_RSS19.pdf">slides</a>]                              |
 | 12:25 - 12:45 | **Yunfei Bai**: *Learning to grasp using simulation and deep learning* |
 |---------------|--------------------------------------------------------------------|
