@@ -48,9 +48,24 @@ th, td {
 }
 
 .main-content img {
+  max-width: 100px !important;
+  max-height: 100px !important;
 }
 
 .top-link {
   font-size: 0.5em;
   font-color: gray;
+}
+
+.archive h1{
+  color: red;
+}
+
+header.rss2019 {
+  display: none;
+}
+
+.cal {
+  width: 100%;
+  height: 621px;
 }
