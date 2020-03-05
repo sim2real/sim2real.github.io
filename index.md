@@ -54,6 +54,7 @@ The proposed workshop is the second edition of a <a href="./rss2019">workshop he
 
 
 <a name="debaters"/>
+
 ## Invited Debaters <a href="#toc" class="top-link">[Top]</a>
 
 - **Dieter Fox** (University of Washington and Nvidia Research)
@@ -70,6 +71,7 @@ The proposed workshop is the second edition of a <a href="./rss2019">workshop he
 
 
 <a name="topics"/>
+
 ## Topics <a href="#toc" class="top-link">[Top]</a>
 
 In contrast to the R:SS 2019 edition, we changed the format from invited talks to **debates**. Each debate will focus on a key - rather controversial - statement regarding Sim2Real, and will be discussed by two proponents and two opponents of that statement. Each debate consists of short introductory pitches by the two sides, providing an opportunity to presenters to also highlight their work, followed by a moderated discussion. An example list of statements includes: 
@@ -86,37 +88,34 @@ We will coordinate with panelists regarding the phrasing and the selection of th
 
 
 <a name="call"/>
+
 ## Call for Contributions <a href="#toc" class="top-link">[Top]</a>
 
-Please stand by. This information will be published if the workshop gets accepted. 
-We will be accepting 2 page extended abstracts.
+Participants are invited to submit **extended abstracts (maximum 2 pages in length, excluding references)**. We encourage justified position papers (wrt. to the aforementioned debate points) but we allow other sim2real-related entries as long as they mention in the submission notes how they relate to one of the subjects (e.g. a work about a new visual grasping sim2real method might mention that it's ONLY reporting sim2sim performance since their simulation is sufficiently detailed).
 
-<!--
-Participants are invited to submit **extended abstracts (maximum 2 pages in length, excluding references)** related to the aforementioned topics.
-
-Accepted abstracts will receive a poster presentation slot and, if equipment is available, a video presentation slot during the poster session.
+Accepted abstracts will receive a poster presentation slot and selected submissions will additionally be allowed to give a spotlight presentation for 5min each, ahead of the corresponding debate.
 
 * Submissions must not exceed *2 pages in length, excluding references*.
 * Submissions must be in PDF following the IEEE style available from<br/>
   [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 * Submissions must include a short abstract. The *extended abstract* should go in the main section of the template and the *short abstract* in the abstract section.
 
-**Submission website:** [https://cmt3.research.microsoft.com/SIMREALRM2019](https://cmt3.research.microsoft.com/SIMREALRM2019)
+**Submission website:** Will be announced shortly. 
+<!--
+[https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 -->
-
 
 <a name="dates"/>
+
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
-- Workshop Acceptance Notification: March 6, 2020
-- Potential Workshop Dates: July 12/13, 2020
+* Submission Deadline: April 9th, 2020 AoE time (UTC-12)
+* Notification of Acceptance: **April 16th, 2020**
+* Confirmation of Presenters*: April 18th 2020 
+* Camera ready submission: April 30th, 2020
+* Workshop: July 12, 2020 (full day)
 
-<!--
-* Submission Deadline: June 3, 2019 <s>May 31, 2019</s>
-* Notification of Acceptance: **June 17, 2019** <s>June 14, 2019</s>
-* Camera ready submission: June 21, 2019 <s>June 19, 2019</s>
-* Workshop: June 23, 2019 (full day)
--->
+\* For each accepted paper, we need a list of presenters with their full name and nationality, so that the RSS organizers can issue visa letters. The organizers expect long visa processing times.   
 
 <!--
 <a name="papers"/>
@@ -136,6 +135,7 @@ Accepted abstracts will receive a poster presentation slot and, if equipment is 
 -->
 
 <a name="schedule"/>
+
 ## Schedule <a href="#toc" class="top-link">[Top]</a>
 
 Taking inspiration from the ICRA 2019 Debates on the Future of Robotics Research, the workshop will consist of three debates. Every debates focuses on a single key question and is structured as follows:
@@ -153,6 +153,7 @@ We will conclude the workshop with a panel discussion focusing on the question o
 
 <!--
 <a name="venue"/>
+
 ## Venue <a href="#toc" class="top-link">[Top]</a>
 
 The workshop takes place in **Building 101, Room 00 026**.
@@ -163,6 +164,7 @@ Please check out the [RSS website](http://roboticsconference.org/attending/venue
 -->
 
 <a name="organizers"/>
+
 ## Organizers <a href="#toc" class="top-link">[Top]</a>
 
 
