@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url("/assets/images/header.png");
+  background-image: url("/assets/images/header-2020.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -14,6 +14,15 @@
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;
+}
+
+.page-header .project-name {
+  color: black;
+  text-shadow:
+          -1px -1px 0 #fff,
+          1px -1px 0 #fff,
+          -1px 1px 0 #fff,
+          1px 1px 0 #fff;
 }
 .project-tagline {
   background-color: #000;
