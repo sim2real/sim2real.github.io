@@ -44,38 +44,27 @@ Previous Workshops:
 
 ## Overview <a href="#toc" class="top-link">[Top]</a>
 
-Physical simulation is an important tool for robotic manipulation. While simulation has been well-established for robotics education and integrated robot software testing for a long time, only recently the robotics community has made significant progress in transferring manipulation capabilities learned in simulation to reality, a concept termed Sim2Real transfer.
+Physical simulation is an important tool for robotics. While simulation has been well-established for robotics education and integrated robot software testing for a long time, only recently the robotics community has made significant progress in transferring capabilities learned in simulation to reality, a concept termed Sim2Real transfer.
 
-Sim2Real draws its appeal from the fact that it is much faster, cheaper, safer and more informative to perform experiments in simulation than in the real world. Recent advances in Sim2Real have shown how to make advances in solving difficult robotic problems, such as autonomous driving, grasping or in-hand manipulation using Sim2Real techniques. However, Sim2Real still faces significant challenges, and it remains an open question whether Sim2Real techniques will ever reach the sample efficiency and accuracy of techniques based on real-world experimentation, and whether they will scale to realistic problem domains.
+Sim2Real refers to a concept of transferring robot skills acquired in simulation to the real robotic system. Sim2Real draws its appeal from the fact that it is cheaper, safer and more informative to perform experiments in simulation than in the real world -- yet, Sim2Real faces significant challenges.
 
-In this workshop we invite well-known researchers to debate the state of the art and the impact of Sim2Real on robotics. The workshop will primarily consist of debates focussed on controversial key topics with a few spotlight presentations.
-
-<!--
-1. **Contact simulation**: Manipulation is about contact. However, simulating physics and in particular contact is a highly complex problem. The reason is that contact formation depends on a wide variety of physical properties such as friction, object deformability, etc. Since learning-based methods exploit any circumstance that facilitates finding a solution, they are prone to overfit to imprecise modeling and thus fail to learn transferable policies.
-2. **Simulating closed-loop manipulation**: Manipulation is not a single-shot but a temporal process. Therefore, even slight errors at the beginning of a simulation sequence tend to accumulate and then lead to simulating unrealistic behavior and learning non-transferable policies.
-3. **Curse of dimensionality**: Many state-of-the-art approaches to sim2real rely on sampling a large number of policies and environmental conditions. However, sampling becomes exponentially more difficult with the number of task dimensions. This raises the question whether current techniques will scale to the high-dimensionality of manipulation problems, e.g. involving high-DOF manipulators.
-4. **Sensor fidelity**: Certain sensor modalities are much more difficult to simulate than others, e.g. simulating RGB or force/torque is more challenging than depth. Despite the recent advances in image synthesis and domain transfer techniques, we still do not fully understand what statistical properties of sensors need to be simulated in order to successfully learn from them.
--->
-
-The goal of this workshop is to debate the state of the art and the impact of Sim2Real for robotics. Here, Sim2Real refers to a concept of transferring robot skills acquired in simulation to the real robotic system. Sim2Real draws its appeal from the fact that it is cheaper, safer and more informative to perform experiments in simulation than in the real world. Yet, Sim2Real faces significant challenges. 
-
-The proposed workshop is the second edition of a <a href="./rss2019">workshop held at R:SS 2019</a>. The R:SS 2019 had the goal of surveying the state of the art in Sim2Real for robotics, with a focus on robotic manipulation, and featured invited talks from top researchers in the field of Sim2Real. In this year’s edition, we aim to review the actual progress in Sim2Real more critically by changing the workshop format: inspired by the ICRA 2019 robotic debates workshop, for this workshop we will invite top-researchers to participate in debates focussed on controversial key topics with a few spotlight presentations.
+In this workshop we invite well-known researchers to debate the state of the art and the impact of Sim2Real on robotics. The proposed workshop is the second edition of a <a href="./rss2019">workshop held at R:SS 2019</a>. The R:SS 2019 workshop had the goal of surveying the state of the art in Sim2Real for robotics, with a focus on robotic manipulation, and featured invited talks from top researchers in the field of Sim2Real. In this year’s edition, we aim to review the actual progress in Sim2Real more critically by changing the workshop format: inspired by the ICRA 2019 robotic debates workshop, for this workshop we will invite top-researchers to participate in debates focussed on controversial key topics with a few spotlight presentations.
 
 
 <a name="debaters"/>
 
 ## Invited Debaters <a href="#toc" class="top-link">[Top]</a>
 
-- **Dieter Fox** (University of Washington and Nvidia Research)
 - **Chris Atkeson** (Robotics Institute, Carnegie Mellon University)
-- **John Leonard** (MIT) 
+- **Anca Dragan** (UC Berkeley)
+- **Dieter Fox** (University of Washington and Nvidia Research)
 - **Ken Goldberg** (UC Berkeley and UCSF)
 - **Abhinav Gupta** (Robotics Institute, Carnegie Mellon University)
-- **Jan Peters** (Technische Universität Darmstadt, MPI for Intelligent Systems)
+- **John Leonard** (MIT)
 - **Karen Liu** (Georgia Tech)
-- **Anca Dragan** (UC Berkeley)
-- **Peter Welinder** (OpenAI)
+- **Jan Peters** (Technische Universität Darmstadt, MPI for Intelligent Systems)
 - **Shuran Song** (Columbia University)
+- **Peter Welinder** (OpenAI)
 - **Martha White** (University of Alberta)
 
 
@@ -83,15 +72,15 @@ The proposed workshop is the second edition of a <a href="./rss2019">workshop he
 
 ## Topics <a href="#toc" class="top-link">[Top]</a>
 
-In contrast to the R:SS 2019 edition, we changed the format from invited talks to **debates**. Each debate will focus on a key - rather controversial - statement regarding Sim2Real, and will be discussed by two proponents and two opponents of that statement. Each debate consists of short introductory pitches by the two sides, providing an opportunity to presenters to also highlight their work, followed by a moderated discussion. An example list of statements includes: 
+In contrast to the R:SS 2019 edition, we changed the format from invited talks to **debates**. Each debate will focus on a key - rather controversial - statement regarding Sim2Real, and will be discussed by two proponents and two opponents of that statement. Each debate consists of short introductory pitches by the two sides, providing an opportunity to presenters to also highlight their work, followed by a moderated discussion. An example list of statements includes:
 
 > "Sim2Real will never work for complex robotic tasks";
 
-> "Sim2Real is able to successfully leverage inaccurate simulations - accurate physics-based simulation and photo-realistic rendering is not required"; 
+> "Sim2Real is able to successfully leverage inaccurate simulations - accurate physics-based simulation and photo-realistic rendering is not required";
 
-> "Sim2Sim performance is sufficient to indicate progress in Sim2Real"; 
+> "Sim2Sim performance is sufficient to indicate progress in Sim2Real";
 
-> "Sim2Real is nothing more than system identification / model-based RL". 
+> "Sim2Real is nothing more than system identification / model-based RL".
 
 We will coordinate with panelists regarding the phrasing and the selection of the statements as well as the assignment of panelists upon the acceptance of the workshop
 
@@ -109,7 +98,7 @@ Accepted abstracts will receive a poster presentation slot and selected submissi
   [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 * Submissions must include a short abstract. The *extended abstract* should go in the main section of the template and the *short abstract* in the abstract section.
 
-**Submission website:** Will be announced shortly. 
+**Submission website:** Will be announced shortly.
 <!--
 [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 -->
@@ -120,7 +109,7 @@ Accepted abstracts will receive a poster presentation slot and selected submissi
 
 * Submission Deadline: April 9th, 2020 AoE time (UTC-12)
 * Notification of Acceptance: **April 16th, 2020**
-* Confirmation of Presenters*: April 18th 2020 
+* Confirmation of Presenters*: April 18th 2020
 * Camera ready submission: April 30th, 2020
 * Workshop: July 12, 2020 (full day)
 
@@ -149,7 +138,7 @@ Accepted abstracts will receive a poster presentation slot and selected submissi
 
 Taking inspiration from the ICRA 2019 Debates on the Future of Robotics Research, the workshop will consist of three debates. Every debates focuses on a single key question and is structured as follows:
 Poster teasers related to debate topic (3-5 minutes each depending on number)
-Pitch by proponents (2 researchers), 15 minutes 
+Pitch by proponents (2 researchers), 15 minutes
 Pitch by opponents (2 researchers), 15 minutes
 Debate, 45 minutes
 
@@ -177,7 +166,7 @@ Please check out the [RSS website](http://roboticsconference.org/attending/venue
 ## Organizers <a href="#toc" class="top-link">[Top]</a>
 
 
-| <img src="assets/images/shoefer.jpg" alt="Sebastian Höfer" width="300" /> | [Sebastian Höfer](http://www.sebastianhoefer.de) is an applied scientist at Amazon Robotics AI headed by Siddhartha Srinivasa. Before joining Amazon, he received his Ph.D. with Oliver Brock at Technische Universität Berlin. 
+| <img src="assets/images/shoefer.jpg" alt="Sebastian Höfer" width="300" /> | [Sebastian Höfer](http://www.sebastianhoefer.de) is an applied scientist at Amazon Robotics AI headed by Siddhartha Srinivasa. Before joining Amazon, he received his Ph.D. with Oliver Brock at Technische Universität Berlin.
 
 | <img src="assets/images/kostas.jpg" alt="Kostas Bekris" width="300" />  | [Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/) is an Associate Professor at the Computer Science department of Rutgers University and an Amazon Scholar at the Amazon Robotics AI team headed by Siddhartha Srinivasa. He received his PhD with Lydia Kavraki at Rice University.  |
 
