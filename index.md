@@ -33,7 +33,16 @@ Previous Workshops:
 
 ----
 
+## Updates
+
+2020-03-29: **IMPORTANT!** RSS will be held virtually and so will this workshop. That means our program will take place as before and we are welcoming contributions just as before. We'll keep you updated on how the workshop is going to take place (e.g. how we'll handle posters).
+
+2020-03-27: We've updated our schedule with the speakers and topics.
+
+
 <a name="overview"/>
+
+## Overview <a href="#toc" class="top-link">[Top]</a>
 
 Physical simulation is an important tool for robotic manipulation. While simulation has been well-established for robotics education and integrated robot software testing for a long time, only recently the robotics community has made significant progress in transferring manipulation capabilities learned in simulation to reality, a concept termed Sim2Real transfer.
 
