@@ -35,7 +35,7 @@ Previous Workshops:
 
 ## Updates
 
-2020-04-02: Since the workshop will be online and nobody needs a visa, we're **moving the workshop deadline back to June**. The new submission deadline is June 19th, 2020 AoE time (UTC-12). The other dates have been updated correspondingly too (see below in the <a href="#dates">Important Dates</a> section).
+2020-04-02: Since the workshop will be online and nobody needs a visa, we're **moving the submission deadline back to June**. The new submission deadline is June 19th, 2020 AoE time (UTC-12). The other dates have been updated correspondingly too (see below in the <a href="#dates">Important Dates</a> section).
 
 2020-03-29: **IMPORTANT!** RSS will be held virtually and so will this workshop. That means our program will take place as before and we are welcoming contributions just as before. We'll keep you updated on how the workshop is going to take place (e.g. how we'll handle posters).
 
