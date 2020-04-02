@@ -35,6 +35,8 @@ Previous Workshops:
 
 ## Updates
 
+2020-04-02: Since the workshop will be online and nobody needs a visa, we're **moving the workshop deadline back to June**. The new submission deadline is June 19th, 2020 AoE time (UTC-12). The other dates have been updated correspondingly too (see below in the <a href="#dates">Important Dates</a> section).
+
 2020-03-29: **IMPORTANT!** RSS will be held virtually and so will this workshop. That means our program will take place as before and we are welcoming contributions just as before. We'll keep you updated on how the workshop is going to take place (e.g. how we'll handle posters).
 
 2020-03-27: We've updated our schedule with the speakers and topics.
@@ -107,10 +109,10 @@ Accepted abstracts will receive a poster presentation slot and selected submissi
 
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
-* Submission Deadline: April 9th, 2020 AoE time (UTC-12)
-* Notification of Acceptance: **April 16th, 2020**
-* Confirmation of Presenters*: April 18th 2020
-* Camera ready submission: April 30th, 2020
+* Submission Deadline: June 19th, 2020 AoE time (UTC-12)
+* Notification of Acceptance: **June 26th, 2020**
+* ~~Confirmation of Presenters*: April 18th 2020~~
+* Camera ready submission: July 3rd, 2020
 * Workshop: July 12, 2020 (full day)
 
 \* For each accepted paper, we need a list of presenters with their full name and nationality, so that the RSS organizers can issue visa letters. The organizers expect long visa processing times.   
