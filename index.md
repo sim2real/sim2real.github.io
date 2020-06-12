@@ -35,7 +35,7 @@ Previous Workshops:
 
 ## Updates
 
-2020-06-12: **Submissions open:** https://cmt3.research.microsoft.com/SIMREALRM2020
+2020-06-12: **Submissions open:** [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 
 2020-04-02: Since the workshop will be online and nobody needs a visa, we're **moving the submission deadline back to June**. The new submission deadline is June 19th, 2020 AoE time (UTC-12). The other dates have been updated correspondingly too (see below in the <a href="#dates">Important Dates</a> section).
 
