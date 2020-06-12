@@ -35,6 +35,8 @@ Previous Workshops:
 
 ## Updates
 
+2020-06-12: **Submissions open:** https://cmt3.research.microsoft.com/SIMREALRM2020
+
 2020-04-02: Since the workshop will be online and nobody needs a visa, we're **moving the submission deadline back to June**. The new submission deadline is June 19th, 2020 AoE time (UTC-12). The other dates have been updated correspondingly too (see below in the <a href="#dates">Important Dates</a> section).
 
 2020-03-29: **IMPORTANT!** RSS will be held virtually and so will this workshop. That means our program will take place as before and we are welcoming contributions just as before. We'll keep you updated on how the workshop is going to take place (e.g. how we'll handle posters).
@@ -100,10 +102,7 @@ Accepted abstracts will receive a poster presentation slot and selected submissi
   [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 * Submissions must include a short abstract. The *extended abstract* should go in the main section of the template and the *short abstract* in the abstract section.
 
-**Submission website:** Will be announced shortly.
-<!--
-[https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
--->
+**Submission website:** [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 
 <a name="dates"/>
 
