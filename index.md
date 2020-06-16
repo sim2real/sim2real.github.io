@@ -90,7 +90,7 @@ In contrast to the R:SS 2019 edition, we changed the format from invited talks t
 
 ## Debate Structure <a href="#toc" class="top-link">[Top]</a>
 
-We will adhere to the following debate structure (Total time per debate: 45 min)
+We will adhere to the following debate structure (Total time per debate: 50 min)
 
 1. Introductions (5 min = 4 debaters x ~1 min each)
 2. Opening arguments (20 min = 4 debaters x 5 min each)
