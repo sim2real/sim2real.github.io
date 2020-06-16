@@ -95,7 +95,7 @@ We will adhere to the following debate structure (Total time per debate: 45 min)
 1. Introductions (5 min = 4 debaters x ~1 min each)
 2. Opening arguments (20 min = 4 debaters x 5 min each)
 3. Moderated discussion between debaters (15 min)
-4. Closing remarks (5 min = 4 debaters x 1 min each)
+4. Closing remarks (10 min = 4 debaters x 2.5 min each)
 
 
 <a name="call"/>
