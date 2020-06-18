@@ -36,13 +36,10 @@ Previous Workshops:
 
 ## Updates
 
-2020-06-12: **Final schedule** We have updated the schedule. Due to the virtual format, the event will consist of a mix of pre-recorded and live events.
+2020-06-16: **Deadline extension** We have extended the deadline for submissions to **June 26th**, 2020 AoE time (UTC-12). The other dates have been updated correspondingly (see below in the <a href="#dates">Important Dates</a> section).
+Submission website: [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 
-2020-06-12: **Submissions open:** [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
-
-2020-04-02: Since the workshop will be online and nobody needs a visa, we're **moving the submission deadline back to June**. The new submission deadline is June 19th, 2020 AoE time (UTC-12). The other dates have been updated correspondingly too (see below in the <a href="#dates">Important Dates</a> section).
-
-2020-03-29: **IMPORTANT!** RSS will be held virtually and so will this workshop. That means our program will take place as before and we are welcoming contributions just as before. We'll keep you updated on how the workshop is going to take place (e.g. how we'll handle posters).
+2020-06-12: **Final schedule** RSS will be held virtually and so will this workshop. Due to the virtual format, the event will consist of a mix of pre-recorded and live events. Please find the <a href="#schedule">updated schedule below</a>.
 
 
 <a name="overview"/>
@@ -117,12 +114,13 @@ We will adhere to the following debate structure (Total time per debate: 50 min)
 
 Participants are invited to submit **extended abstracts (maximum 2 pages in length, excluding references)**. We encourage justified position papers (wrt. to the aforementioned debate points) but we allow other sim2real-related entries as long as they mention in the submission notes how they relate to one of the subjects (e.g. a work about a new visual grasping sim2real method might mention that it's ONLY reporting sim2sim performance since their simulation is sufficiently detailed).
 
-Accepted abstracts will be given the opportunity to record a short pitch video, and receive a poster presentation slot during the live Q&A session of the virtual workshop.
+Accepted abstracts will be given the opportunity to record a short pitch video, and receive an online Q&A slot during the live session of the virtual workshop.
 
 * Submissions must not exceed *2 pages in length, excluding references*.
 * Submissions must be in PDF following the IEEE style available from<br/>
   [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 * Submissions must include a short abstract. The *extended abstract* should go in the main section of the template and the *short abstract* in the abstract section.
+* Anonymous submissions are not required.
 
 **Submission website:** [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 
@@ -130,10 +128,9 @@ Accepted abstracts will be given the opportunity to record a short pitch video, 
 
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
-* Submission Deadline: June 19th, 2020 AoE time (UTC-12)
-* Notification of Acceptance: **June 26th, 2020**
-* ~~Confirmation of Presenters*: April 18th 2020~~
-* Camera ready submission: July 3rd, 2020
+* Submission Deadline: **June 26th, 2020** AoE time (UTC-12)
+* Notification of Acceptance: **July 1st, 2020**
+* Camera ready **and Video** submission: **July 8th, 2020**
 * Workshop: July 12, 2020 (full day)
 
 
