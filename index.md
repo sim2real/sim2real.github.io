@@ -55,17 +55,30 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 ## Invited Debaters <a href="#toc" class="top-link">[Top]</a>
 
-- **Chris Atkeson** (Robotics Institute, Carnegie Mellon University)
-- **Anca Dragan** (UC Berkeley)
-- **Dieter Fox** (University of Washington and Nvidia Research)
-- **Ken Goldberg** (UC Berkeley and UCSF)
-- **Abhinav Gupta** (Robotics Institute, Carnegie Mellon University)
-- **John Leonard** (MIT)
-- **Karen Liu** (Georgia Tech)
-- **Jan Peters** (Technische Universität Darmstadt, MPI for Intelligent Systems)
-- **Shuran Song** (Columbia University)
-- **Peter Welinder** (OpenAI)
-- **Martha White** (University of Alberta)
+<div class="debaters"></div>
+
+| <img src="assets/images/speakers/atkeson.jpg" alt="Chris Atkeson" width="300" /> | [Chris Atkeson](https://www.cs.cmu.edu/~cga/) (Robotics Institute, Carnegie Mellon University)
+
+| <img src="assets/images/speakers/dragan.jpg" alt="Anca Dragan" width="300" /> | [Anca Dragan](https://people.eecs.berkeley.edu/~anca/) (UC Berkeley)
+
+| <img src="assets/images/speakers/fox.jpg" alt="Dieter Fox" width="300" /> | [Dieter Fox](https://homes.cs.washington.edu/~fox/) (University of Washington and Nvidia Research)
+
+| <img src="assets/images/speakers/goldberg.jpg" alt="Ken Goldberg" width="300" /> | [Ken Goldberg](https://goldberg.berkeley.edu/) (UC Berkeley and UCSF)
+
+| <img src="assets/images/speakers/gupta.jpg" alt="Abhinav Gupta" width="300" /> | [Abhinav Gupta](https://www.cs.cmu.edu/~abhinavg/) (Robotics Institute, Carnegie Mellon University)
+
+| <img src="assets/images/speakers/leonard.jpg" alt="John Leonard" width="300" /> | [John Leonard](https://www.csail.mit.edu/person/john-leonard) (MIT)
+
+| <img src="assets/images/speakers/liu.jpg" alt="Karen Liu" width="300" /> | [Karen Liu](https://ckllab.stanford.edu/c-karen-liu) (Georgia Tech)
+
+| <img src="assets/images/speakers/peters.jpg" alt="Jan Peters" width="300" /> | [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters) (Technische Universität Darmstadt, MPI for Intelligent Systems)
+
+| <img src="assets/images/speakers/song.jpg" alt="Shuran Song" width="300" /> | [Shuran Song](https://shurans.github.io/) (Columbia University)
+
+| <img src="assets/images/speakers/welinder.jpg" alt="Peter Welinder" width="300" /> | [Peter Welinder](http://www.vision.caltech.edu/welinder) (OpenAI)
+
+| <img src="assets/images/speakers/white.jpg" alt="Martha White" width="300" /> | [Martha White](https://webdocs.cs.ualberta.ca/~whitem/) (University of Alberta)
+
 
 
 <a name="topics"/>
@@ -165,6 +178,7 @@ Please check out the [RSS website](http://roboticsconference.org/attending/venue
 
 ## Organizers <a href="#toc" class="top-link">[Top]</a>
 
+<div class="organizers"></div>
 
 | <img src="assets/images/shoefer.jpg" alt="Sebastian Höfer" width="300" /> | [Sebastian Höfer](http://www.sebastianhoefer.de) is an applied scientist at Amazon Robotics AI headed by Siddhartha Srinivasa. Before joining Amazon, he received his Ph.D. with Oliver Brock at Technische Universität Berlin.
 

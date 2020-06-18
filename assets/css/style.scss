@@ -78,3 +78,11 @@ header.rss2019 {
   width: 100%;
   height: 621px;
 }
+
+.debaters ~ table td {
+  vertical-align: middle;
+}
+
+.organizers ~ table td {
+  vertical-align: top;
+}
