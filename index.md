@@ -13,7 +13,8 @@ layout: default
 <div style="text-align: center; font-size: 0.8em;">
 <a href="#overview">Overview</a> &middot;
 <a href="#debaters">Invited Debaters</a> &middot;
-<a href="#topics">Topics</a> &middot;
+<a href="#topics">Debate Topics</a> &middot;
+<a href="#structure">Debate Structure</a> &middot;
 <a href="#call">Call for Contributions</a> &middot;
 <a href="#dates">Important Dates</a> &middot;
 <!--<a href="#papers">Accepted Papers</a> &middot;-->
@@ -35,9 +36,13 @@ Previous Workshops:
 
 ## Updates
 
-2020-03-29: **IMPORTANT!** RSS will be held virtually and so will this workshop. That means our program will take place as before and we are welcoming contributions just as before. We'll keep you updated on how the workshop is going to take place (e.g. how we'll handle posters).
+2020-06-12: **Final schedule** We have updated the schedule. Due to the virtual format, the event will consist of a mix of pre-recorded and live events.
 
-2020-03-27: We've updated our schedule with the speakers and topics.
+2020-06-12: **Submissions open:** [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
+
+2020-04-02: Since the workshop will be online and nobody needs a visa, we're **moving the submission deadline back to June**. The new submission deadline is June 19th, 2020 AoE time (UTC-12). The other dates have been updated correspondingly too (see below in the <a href="#dates">Important Dates</a> section).
+
+2020-03-29: **IMPORTANT!** RSS will be held virtually and so will this workshop. That means our program will take place as before and we are welcoming contributions just as before. We'll keep you updated on how the workshop is going to take place (e.g. how we'll handle posters).
 
 
 <a name="overview"/>
@@ -83,19 +88,27 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 <a name="topics"/>
 
-## Topics <a href="#toc" class="top-link">[Top]</a>
+## Debate Topics <a href="#toc" class="top-link">[Top]</a>
 
 In contrast to the R:SS 2019 edition, we changed the format from invited talks to **debates**. Each debate will focus on a key - rather controversial - statement regarding Sim2Real, and will be discussed by two proponents and two opponents of that statement. Each debate consists of short introductory pitches by the two sides, providing an opportunity to presenters to also highlight their work, followed by a moderated discussion. An example list of statements includes:
 
-> "Sim2Real will never work for complex robotic tasks";
+> *Why* sim2real? - "Investing into Sim2Real is a waste of time and money“
 
-> "Sim2Real is able to successfully leverage inaccurate simulations - accurate physics-based simulation and photo-realistic rendering is not required";
+> *What* is sim2real? - "Sim2Real is old news. It’s just X (X=model-based RL, X=domain randomization, X=system identification, ...)"
 
-> "Sim2Sim performance is sufficient to indicate progress in Sim2Real";
+> *How* to sim2real? -  "For successful sim2real transfer, there is no alternative to accurate simulation.“
 
-> "Sim2Real is nothing more than system identification / model-based RL".
 
-We will coordinate with panelists regarding the phrasing and the selection of the statements as well as the assignment of panelists upon the acceptance of the workshop
+<a name="structure"/>
+
+## Debate Structure <a href="#toc" class="top-link">[Top]</a>
+
+We will adhere to the following debate structure (Total time per debate: 50 min)
+
+1. Introductions (5 min = 4 debaters x ~1 min each)
+2. Opening arguments (20 min = 4 debaters x 5 min each)
+3. Moderated discussion between debaters (15 min)
+4. Closing remarks (10 min = 4 debaters x 2.5 min each)
 
 
 <a name="call"/>
@@ -104,29 +117,25 @@ We will coordinate with panelists regarding the phrasing and the selection of th
 
 Participants are invited to submit **extended abstracts (maximum 2 pages in length, excluding references)**. We encourage justified position papers (wrt. to the aforementioned debate points) but we allow other sim2real-related entries as long as they mention in the submission notes how they relate to one of the subjects (e.g. a work about a new visual grasping sim2real method might mention that it's ONLY reporting sim2sim performance since their simulation is sufficiently detailed).
 
-Accepted abstracts will receive a poster presentation slot and selected submissions will additionally be allowed to give a spotlight presentation for 5min each, ahead of the corresponding debate.
+Accepted abstracts will be given the opportunity to record a short pitch video, and receive a poster presentation slot during the live Q&A session of the virtual workshop.
 
 * Submissions must not exceed *2 pages in length, excluding references*.
 * Submissions must be in PDF following the IEEE style available from<br/>
   [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)
 * Submissions must include a short abstract. The *extended abstract* should go in the main section of the template and the *short abstract* in the abstract section.
 
-**Submission website:** Will be announced shortly.
-<!--
-[https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
--->
+**Submission website:** [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 
 <a name="dates"/>
 
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
-* Submission Deadline: April 9th, 2020 AoE time (UTC-12)
-* Notification of Acceptance: **April 16th, 2020**
-* Confirmation of Presenters*: April 18th 2020
-* Camera ready submission: April 30th, 2020
+* Submission Deadline: June 19th, 2020 AoE time (UTC-12)
+* Notification of Acceptance: **June 26th, 2020**
+* ~~Confirmation of Presenters*: April 18th 2020~~
+* Camera ready submission: July 3rd, 2020
 * Workshop: July 12, 2020 (full day)
 
-\* For each accepted paper, we need a list of presenters with their full name and nationality, so that the RSS organizers can issue visa letters. The organizers expect long visa processing times.   
 
 <!--
 <a name="papers"/>
