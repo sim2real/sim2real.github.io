@@ -36,6 +36,8 @@ Previous Workshops:
 
 ## Updates
 
+2020-07-02: **Notification of Acceptance postponed to July 6th**. Due to receiving significantly more submissions than we expected, we have to postpone the notification of acceptance to **July 6th**. Apologies for the inconvenience caused!
+
 2020-06-16: **Deadline extension** We have extended the deadline for submissions to **June 26th**, 2020 AoE time (UTC-12). The other dates have been updated correspondingly (see below in the <a href="#dates">Important Dates</a> section).
 Submission website: [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
 
@@ -129,7 +131,7 @@ Accepted abstracts will be given the opportunity to record a short pitch video, 
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
 
 * Submission Deadline: **June 26th, 2020** AoE time (UTC-12)
-* Notification of Acceptance: **July 1st, 2020**
+* Notification of Acceptance: **July 6th, 2020** <s>July 1st, 2020</s>
 * Camera ready **and Video** submission: **July 8th, 2020**
 * Workshop: July 12, 2020 (full day)
 
