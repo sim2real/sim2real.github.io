@@ -65,6 +65,8 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 | <img src="assets/images/speakers/dragan.jpg" alt="Anca Dragan" width="300" /> | [Anca Dragan](https://people.eecs.berkeley.edu/~anca/) (UC Berkeley)
 
+| <img src="assets/images/speakers/dudek.jpg" alt="Gregory Dudek" width="300" /> | [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/) (McGill University)
+
 | <img src="assets/images/speakers/fox.jpg" alt="Dieter Fox" width="300" /> | [Dieter Fox](https://homes.cs.washington.edu/~fox/) (University of Washington and Nvidia Research)
 
 | <img src="assets/images/speakers/goldberg.jpg" alt="Ken Goldberg" width="300" /> | [Ken Goldberg](https://goldberg.berkeley.edu/) (UC Berkeley and UCSF)
@@ -72,8 +74,6 @@ In this workshop we invite well-known researchers to debate the state of the art
 | <img src="assets/images/speakers/gupta.jpg" alt="Abhinav Gupta" width="300" /> | [Abhinav Gupta](https://www.cs.cmu.edu/~abhinavg/) (Robotics Institute, Carnegie Mellon University)
 
 | <img src="assets/images/speakers/leonard.jpg" alt="John Leonard" width="300" /> | [John Leonard](https://www.csail.mit.edu/person/john-leonard) (MIT)
-
-| <img src="assets/images/speakers/dudek.jpg" alt="Gregory Dudek" width="300" /> | [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/) (McGill University)
 
 | <img src="assets/images/speakers/liu.jpg" alt="Karen Liu" width="300" /> | [Karen Liu](https://ckllab.stanford.edu/c-karen-liu) (Georgia Tech)
 
