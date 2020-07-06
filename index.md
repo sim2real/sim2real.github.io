@@ -73,6 +73,8 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 | <img src="assets/images/speakers/leonard.jpg" alt="John Leonard" width="300" /> | [John Leonard](https://www.csail.mit.edu/person/john-leonard) (MIT)
 
+| <img src="assets/images/speakers/dudek.jpg" alt="Gregory Dudek" width="300" /> | [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/) (McGill University)
+
 | <img src="assets/images/speakers/liu.jpg" alt="Karen Liu" width="300" /> | [Karen Liu](https://ckllab.stanford.edu/c-karen-liu) (Georgia Tech)
 
 | <img src="assets/images/speakers/peters.jpg" alt="Jan Peters" width="300" /> | [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Member/JanPeters) (Technische Universität Darmstadt, MPI for Intelligent Systems)
