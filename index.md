@@ -36,12 +36,13 @@ Previous Workshops:
 
 ## Updates
 
-2020-07-02: **Notification of Acceptance postponed to July 6th**. Due to receiving significantly more submissions than we expected, we have to postpone the notification of acceptance to **July 6th**. Apologies for the inconvenience caused!
+2020-07-11: **Debates premiering soon**. Thanks to all our speakers for delivering three absolutely amazing debates! The debate videos will premiere on July 12th, 12 am PST on youtube: [Sim2Real Debates](https://www.youtube.com/embed/Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0).
 
-2020-06-16: **Deadline extension** We have extended the deadline for submissions to **June 26th**, 2020 AoE time (UTC-12). The other dates have been updated correspondingly (see below in the <a href="#dates">Important Dates</a> section).
-Submission website: [https://cmt3.research.microsoft.com/SIMREALRM2020](https://cmt3.research.microsoft.com/SIMREALRM2020)
+2020-07-11: **Accepted papers are online**. Congratulations to authors who had their papers accepted at the sim2real workshop at RSS 2020! Full list of papers [below](#papers)
 
-2020-06-12: **Final schedule** RSS will be held virtually and so will this workshop. Due to the virtual format, the event will consist of a mix of pre-recorded and live events. Please find the <a href="#schedule">updated schedule below</a>.
+## Sim2Real Debates <a href="#toc" class="top-link">[Top]</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a name="overview"/>
