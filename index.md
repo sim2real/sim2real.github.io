@@ -17,7 +17,7 @@ layout: default
 <a href="#structure">Debate Structure</a> &middot;
 <a href="#call">Call for Contributions</a> &middot;
 <a href="#dates">Important Dates</a> &middot;
-<!--<a href="#papers">Accepted Papers</a> &middot;-->
+<a href="#papers">Accepted Papers</a> &middot;
 <a href="#schedule">Schedule</a> &middot;
 <!--<a href="#venue">Venue</a> &middot;-->
 <a href="#organizers">Organizers</a>
@@ -138,22 +138,68 @@ Accepted abstracts will be given the opportunity to record a short pitch video, 
 * Workshop: July 12, 2020 (full day)
 
 
-<!--
+
 <a name="papers"/>
+
 ## Accepted Papers <a href="#toc" class="top-link">[Top]</a>
 
-* Adam Allevato, Elaine Short, Mitch Pryor, Andrea Thomaz - TuneNet: One-Shot Simulation Tuning for Physics Prediction and Robot Task Planning [<a href="assets/papers/allevato.pdf">pdf</a>]
-* Brayan S. Zapata-Impata, Pablo Gil, Fernando Torres  - vision2tactile: Feeling Touch by Sight [<a href="assets/papers/zapata.pdf">pdf</a>]
-* Diego Ferigo, Silvio Traversaro, Daniele Pucci  - Gym-Ignition: Reproducible Robotic Simulations for Reinforcement Learning [<a href="assets/papers/ferigo.pdf">pdf</a>]
-* Eric Heiden, David R Millard, Gaurav Sukhatme  - Real2Sim Transfer using Differentiable Physics [<a href="assets/papers/heiden.pdf">pdf</a>]
-* Jakob Hollenstein, Justus Piater  - Evaluating Planning for Policy Search [<a href="assets/papers/hollenstein.pdf">pdf</a>]
-* Jonas Kiemel - PaintRL: Coverage Path Planning for Industrial Spray Painting with Reinforcement Learning [<a href="assets/papers/kiemel.pdf">pdf</a>]
-* Joshua P. Powers, Dylan Shah  - Sim2real of soft-bodied, shape-changing robots [<a href="assets/papers/powers.pdf">pdf</a>]
-* Kent A. Rosser - Sim2real transfer degrades non-monotonically with morphological complexity for flapping wing design [<a href="assets/papers/rosser.pdf">pdf</a>]
-* Manuel Kaspar, Jürgen Bock - Reinforcement Learning with Cartesian Commands andSim to Real Transfer for Peg in Hole Tasks [<a href="assets/papers/kaspar.pdf">pdf</a>]
-* Max K. Nielsen - Data Driven Inverse Kinematics of Soft Robots created using Geometrical Constraints ensuring Safe Manufacturing [<a href="assets/papers/nielsen.pdf">pdf</a>]
+* **"Accurate High Fidelity Simulations for Training Robot Navigation Policies for Dense Crowds using Deep Reinforcement Learning"**<br>
+Jing Liang, Utsav Patel, Adarsh Jagan Sathyamoorthy, Dinesh Manocha<br>
+<a href="assets/papers/2020/liang.pdf">[PDF]</a> [Video - TBD]
+* **"Learning to Manipulate Deformable Objects without Demonstrations"**<br>
+Yilin Wu, Wilson Yan, Thanard Kurutach, Lerrel Pinto, Pieter Abbeel<br>
+<a href="assets/papers/2020/wu.pdf">[PDF]</a> [Video - TBD]
+* **"Learning Predictive Representations for Deformable Objects with Contrastive Estimation"**<br>
+Wilson Yan, Ashwin Vangipuram, Pieter Abbeel, Lerrel Pinto<br>
+<a href="assets/papers/2020/yan.pdf">[PDF]</a> [Video - TBD]
+* **"Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?"**<br>
+Abhishek Kadian, Joanne Truong, Aaron Gokaslan, Alexander Clegg, Erik Wijmans, Stefan Lee, Manolis Savva, Sonia Chernova, Dhruv Batra<br>
+<a href="assets/papers/2020/kadian.pdf">[PDF]</a> [Video - TBD]
+* **"Online BayesSim for Combined Simulator Parameter Inference and Policy Improvement"**<br>
+Rafael Possas, Fabio Ramos, Dieter Fox, Lucas Barcelos, Rafael Oliveira<br>
+<a href="assets/papers/2020/possas.pdf">[PDF]</a> [Video - TBD]
+* **"Extended Abstract: An Imitation from Observation Approach to Sim-to-Real Transfer"**<br>
+Siddharth Desai, Ishan Durugkar, Haresh Karnan, Garrett Warnell, Josiah Hanna, Peter Stone<br>
+<a href="assets/papers/2020/desai.pdf">[PDF]</a> [Video - TBD]
+* **"Modular Latent Space Transfer with Analytic Manifold Learning"**<br>
+Rika Antonova, Maksim Maydanskiy, Danica Kragic, Sam Devlin, Katja Hofmann<br>
+<a href="assets/papers/2020/antonova.pdf">[PDF]</a> [Video - TBD]
+* **"The Importance and the Limitations of Sim2Real for Robotic Manipulation in Precision Agriculture"**<br>
+Carlo Rizzardo, SUNNY KATYARA, Miguel Fernandes, Fei Chen<br>
+<a href="assets/papers/2020/rizzardo.pdf">[PDF]</a> [Video - TBD]
+* **"Augmenting Differentiable Simulators with Neural Networks to Close the Sim2Real Gap"**<br>
+Eric Heiden, David Millard, Erwin Coumans, Gaurav Sukhatme<br>
+<a href="assets/papers/2020/heiden.pdf">[PDF]</a> [Video - TBD]
+* **"Learning to Walk without Dynamics Randomization"**<br>
+Jeremy Dao, Helei Duan, Kevin Green, Jonathan Hurst, Alan Fern<br>
+<a href="assets/papers/2020/dao.pdf">[PDF]</a> [Video - TBD]
+* **"Sim2Real Learning of Vision-based Obstacle Avoidance for Robotic Manipulators"**<br>
+Kefang Zhang, Tan Zhang, Jiatao Lin, Lv Bi<br>
+<a href="assets/papers/2020/zhang.pdf">[PDF]</a> [Video - TBD]
+* **"BlenderProc: Reducing the Reality Gap with Photorealistic Rendering"**<br>
+Maximilian Denninger, Martin Sundermeyer, Dominik Winkelbauer, Dmitry Olefir, Tomas Hodan, Youssef Zidan, Mohamad Elbadrawy, Markus Knauer, Harinandan Katam, Ahsan Lodhi<br>
+<a href="assets/papers/2020/denninger.pdf">[PDF]</a> [Video - TBD]
+* **"Robust Sim2Real Transfer by Learning Inverse Dynamics of Simulated Systems"**<br>
+Mohammadhossein Malmir, Josip Josifovski, Noah Klarmann, Alois Knoll<br>
+<a href="assets/papers/2020/malmir.pdf">[PDF]</a> [Video - TBD]
+* **"Continual Learning on Incremental Simulations for Real-World Robotic Manipulation Tasks"**<br>
+Josip Josifovski, Mohammadhossein Malmir, Noah Klarmann, Alois Knoll<br>
+<a href="assets/papers/2020/josifovski.pdf">[PDF]</a> [Video - TBD]
+* **"How to Sim2Real with Gaussian Processes: Prior Mean versus Kernels as Priors"**<br>
+Rika Antonova, Akshara Rai, Danica Kragic<br>
+<a href="assets/papers/2020/antonova2.pdf">[PDF]</a> [Video - TBD]
+* **"Necessity for More Realistic Contact Simulation"**<br>
+Mabel Zhang<br>
+<a href="assets/papers/2020/zhang2.pdf">[PDF]</a> [Video - TBD]
+* **"CuNAS - CUriosity-driven Neural-Augmented Simulator"**<br>
+Sharath Chandra Raparthy, Melissa Mozifian, Liam Paull, Florian Golemo<br>
+<a href="assets/papers/2020/raparthy.pdf">[PDF]</a> [Video - TBD]
+* **"On Assessing the Value of Simulation for Robotics"**<br>
+Liam Paull, Anthony Courchesne<br>
+<a href="assets/papers/2020/paull.pdf">[PDF]</a> [Video - TBD]
 
--->
+
+
 
 <a name="schedule"/>
 
