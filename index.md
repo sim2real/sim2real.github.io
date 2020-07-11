@@ -36,13 +36,13 @@ Previous Workshops:
 
 ## Updates
 
-2020-07-11: **Debates premiering soon**. Thanks to all our speakers for delivering three absolutely amazing debates! The debate videos will premiere on July 12th, 12 am PST on youtube: [Sim2Real Debates](https://www.youtube.com/embed/Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0).
+2020-07-11: **Debates premiering soon**. Thanks to all our speakers for delivering three absolutely amazing debates! The debate videos will premiere on July 12th, 12 am PST on youtube: [Sim2Real Debates](https://www.youtube.com/watch?v=Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0).
 
 2020-07-11: **Accepted papers are online**. Congratulations to authors who had their papers accepted at the sim2real workshop at RSS 2020! Full list of papers [below](#papers)
 
 ## Sim2Real Debates <a href="#toc" class="top-link">[Top]</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-rsvVr2CjE?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a name="overview"/>
