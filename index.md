@@ -57,6 +57,7 @@ Previous Workshops:
 <iframe width="186" height="105" src="https://www.youtube.com/embed/S8zfYrlahac?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 </tr>
+</table>
 
 
 <a name="overview"/>
