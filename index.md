@@ -258,7 +258,7 @@ Please check out the [RSS website](http://roboticsconference.org/attending/venue
 
 | <img src="assets/images/ankur.jpg" alt="Ankur Handa" width="300" />  | [Ankur Handa](https://ankurhanda.github.io/) is a senior research scientist at NVIDIA robotics lab run by Dieter Fox. Prior to that he was a research scientist at OpenAI. He received his Ph.D. with Dr. Andrew Davison and spent two years at University of Cambridge in Prof. Roberto Cipolla’s lab as a post-doctoral researcher.  |
 
-| <img src="assets/images/juan.jpg" alt="Juan Camilo Gamboa Higuera" width="300" />  | [Juan Camilo Gamboa](https://cim.mcgill.ca/~gmaboa ) is a PhD Candidate at the School of Computer Science at McGill University. His research focuses on model-based RL for control and navigation of underwater vehicles.  |
+| <img src="assets/images/juan.jpg" alt="Juan Camilo Gamboa Higuera" width="300" />  | [Juan Camilo Gamboa](https://cim.mcgill.ca/~gamboa/ ) is a PhD Candidate at the School of Computer Science at McGill University. His research focuses on model-based RL for control and navigation of underwater vehicles.  |
 
 | <img src="assets/images/florian.jpg" alt="Florian Golemo" width="300" />  | [Florian Golemo](https://fgolemo.github.io/) is a postdoctoral fellow at Mila and ElementAI, working with Liam Paull, Aaron Courville, and Chris Pal on Sim2Real and 3D perception problems. He received his PhD from INRIA Bordeaux under supervision of Pierre-Yves Oudeyer.  |
 
