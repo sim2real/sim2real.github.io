@@ -40,9 +40,12 @@ Previous Workshops:
 
 2020-07-11: **Accepted papers are online**. Congratulations to authors who had their papers accepted at the sim2real workshop at RSS 2020! Full list of papers [below](#papers)
 
+
 ## Sim2Real Debates <a href="#toc" class="top-link">[Top]</a>
 
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-rsvVr2CjE?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 <a name="overview"/>
