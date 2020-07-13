@@ -36,6 +36,8 @@ Previous Workshops:
 
 ## Updates
 
+2020-07-13: **Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks! :) Also we've uploaded the poster teasers that the authors provided (see the section "<a href="#papers">Accepted Papers</a>").
+
 2020-07-11: **Debates premiering soon**. Thanks to all our speakers for delivering three absolutely amazing debates! The debate videos will premiere on July 12th, 12 am PST on youtube: [Sim2Real Debates](https://www.youtube.com/watch?v=Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0).
 
 2020-07-11: **Accepted papers are online**. Congratulations to authors who had their papers accepted at the sim2real workshop at RSS 2020! Full list of papers [below](#papers)
@@ -163,58 +165,58 @@ Accepted abstracts will be given the opportunity to record a short pitch video, 
 
 * **"Accurate High Fidelity Simulations for Training Robot Navigation Policies for Dense Crowds using Deep Reinforcement Learning"**<br>
 Jing Liang, Utsav Patel, Adarsh Jagan Sathyamoorthy, Dinesh Manocha<br>
-<a href="assets/papers/2020/liang.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/liang.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=3qAChP_6PVY">[Video]</a>
 * **"Augmenting Differentiable Simulators with Neural Networks to Close the Sim2Real Gap"**<br>
 Eric Heiden, David Millard, Erwin Coumans, Gaurav Sukhatme<br>
-<a href="assets/papers/2020/heiden.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/heiden.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=awhkI5xtFa0">[Video]</a>
 * **"BlenderProc: Reducing the Reality Gap with Photorealistic Rendering"**<br>
 Maximilian Denninger, Martin Sundermeyer, Dominik Winkelbauer, Dmitry Olefir, Tomas Hodan, Youssef Zidan, Mohamad Elbadrawy, Markus Knauer, Harinandan Katam, Ahsan Lodhi<br>
-<a href="assets/papers/2020/denninger.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/denninger.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=tQ59iGVnJWM">[Video]</a>
 * **"CuNAS - CUriosity-driven Neural-Augmented Simulator"**<br>
 Sharath Chandra Raparthy, Melissa Mozifian, Liam Paull, Florian Golemo<br>
-<a href="assets/papers/2020/raparthy.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/raparthy.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=Tlf5RG3OPF8">[Video]</a>
 * **"Continual Learning on Incremental Simulations for Real-World Robotic Manipulation Tasks"**<br>
 Josip Josifovski, Mohammadhossein Malmir, Noah Klarmann, Alois Knoll<br>
-<a href="assets/papers/2020/josifovski.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/josifovski.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=UoJolTE6SMg">[Video]</a>
 * **"Extended Abstract: An Imitation from Observation Approach to Sim-to-Real Transfer"**<br>
 Siddharth Desai, Ishan Durugkar, Haresh Karnan, Garrett Warnell, Josiah Hanna, Peter Stone<br>
-<a href="assets/papers/2020/desai.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/desai.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=CEEGJZJmDF8">[Video]</a>
 * **"How to Sim2Real with Gaussian Processes: Prior Mean versus Kernels as Priors"**<br>
 Rika Antonova, Akshara Rai, Danica Kragic<br>
-<a href="assets/papers/2020/antonova2.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/antonova2.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=LVRzfaAU2dw">[Video]</a>
 * **"Learning Predictive Representations for Deformable Objects with Contrastive Estimation"**<br>
 Wilson Yan, Ashwin Vangipuram, Pieter Abbeel, Lerrel Pinto<br>
-<a href="assets/papers/2020/yan.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/yan.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=LLFfPbirwHk">[Video]</a>
 * **"Learning to Manipulate Deformable Objects without Demonstrations"**<br>
 Yilin Wu, Wilson Yan, Thanard Kurutach, Lerrel Pinto, Pieter Abbeel<br>
-<a href="assets/papers/2020/wu.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/wu.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=nYCC2T_Tw-U">[Video]</a>
 * **"Learning to Walk without Dynamics Randomization"**<br>
 Jeremy Dao, Helei Duan, Kevin Green, Jonathan Hurst, Alan Fern<br>
-<a href="assets/papers/2020/dao.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/dao.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=nyFA_s6NReA">[Video]</a>
 * **"Modular Latent Space Transfer with Analytic Manifold Learning"**<br>
 Rika Antonova, Maksim Maydanskiy, Danica Kragic, Sam Devlin, Katja Hofmann<br>
-<a href="assets/papers/2020/antonova.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/antonova.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=6J_J6kFemLM">[Video]</a>
 * **"Necessity for More Realistic Contact Simulation"**<br>
 Mabel Zhang<br>
-<a href="assets/papers/2020/zhang2.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/zhang2.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=n24pH69mWjo">[Video]</a>
 * **"On Assessing the Value of Simulation for Robotics"**<br>
 Liam Paull, Anthony Courchesne<br>
-<a href="assets/papers/2020/paull.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/paull.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=VsayHLDXWDg">[Video]</a>
 * **"Online BayesSim for Combined Simulator Parameter Inference and Policy Improvement"**<br>
 Rafael Possas, Fabio Ramos, Dieter Fox, Lucas Barcelos, Rafael Oliveira<br>
-<a href="assets/papers/2020/possas.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/possas.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=PnT_dO745JY">[Video]</a>
 * **"Robust Sim2Real Transfer by Learning Inverse Dynamics of Simulated Systems"**<br>
 Mohammadhossein Malmir, Josip Josifovski, Noah Klarmann, Alois Knoll<br>
-<a href="assets/papers/2020/malmir.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/malmir.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=LyqMkguLDe8">[Video]</a>
 * **"Sim2Real Learning of Vision-based Obstacle Avoidance for Robotic Manipulators"**<br>
 Kefang Zhang, Tan Zhang, Jiatao Lin, Lv Bi<br>
-<a href="assets/papers/2020/zhang.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/zhang.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=7_d6nu0iV70">[Video]</a>
 * **"Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?"**<br>
 Abhishek Kadian, Joanne Truong, Aaron Gokaslan, Alexander Clegg, Erik Wijmans, Stefan Lee, Manolis Savva, Sonia Chernova, Dhruv Batra<br>
-<a href="assets/papers/2020/kadian.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/kadian.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=Hun2rhgnWLU">[Video]</a>
 * **"The Importance and the Limitations of Sim2Real for Robotic Manipulation in Precision Agriculture"**<br>
 Carlo Rizzardo, SUNNY KATYARA, Miguel Fernandes, Fei Chen<br>
-<a href="assets/papers/2020/rizzardo.pdf">[PDF]</a> [Video - TBD]
+<a href="assets/papers/2020/rizzardo.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=gi-ffG6B5yA">[Video]</a>
 
 
 <a name="schedule"/>
