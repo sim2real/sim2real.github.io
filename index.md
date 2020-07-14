@@ -36,14 +36,13 @@ Previous Workshops:
 
 ## Updates
 
-2020-07-13: **Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks! :) Also we've uploaded the poster teasers that the authors provided (see the section "<a href="#papers">Accepted Papers</a>").
+2020-07-14: **Post-Workshop Update 2**. We have uploaded all recordings of both the debates and panel discussion: <a href="#videos">Videos</a>
 
-2020-07-11: **Debates premiering soon**. Thanks to all our speakers for delivering three absolutely amazing debates! The debate videos will premiere on July 12th, 12 am PST on youtube: [Sim2Real Debates](https://www.youtube.com/watch?v=Q-rsvVr2CjE&list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0).
-
-2020-07-11: **Accepted papers are online**. Congratulations to authors who had their papers accepted at the sim2real workshop at RSS 2020! Full list of papers [below](#papers)
+2020-07-13: **Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks! :) Also we've uploaded the poster teasers that the authors provided (see <a href="#papers">Accepted Papers</a>).
 
 
-## Sim2Real Debates <a href="#toc" class="top-link">[Top]</a>
+<a name="videos"/>
+## Videos <a href="#toc" class="top-link">[Top]</a>
 
 <table>
 <tr>
@@ -60,7 +59,7 @@ Previous Workshops:
 </td>
 
 <td width="25%">
-<iframe width="188" height="101" src="https://www.youtube.com/embed/S8zfYrlahacHZYXjazzT4Q?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="188" height="101" src="https://www.youtube.com/embed/x5hnD1grtLw?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 
 </tr>
@@ -180,6 +179,9 @@ Accepted abstracts will be given the opportunity to record a short pitch video, 
 * **"Accurate High Fidelity Simulations for Training Robot Navigation Policies for Dense Crowds using Deep Reinforcement Learning"**<br>
 Jing Liang, Utsav Patel, Adarsh Jagan Sathyamoorthy, Dinesh Manocha<br>
 <a href="assets/papers/2020/liang.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=3qAChP_6PVY">[Video]</a>
+* **"An Imitation from Observation Approach to Sim-to-Real Transfer"**<br>
+Siddharth Desai, Ishan Durugkar, Haresh Karnan, Garrett Warnell, Josiah Hanna, Peter Stone<br>
+<a href="assets/papers/2020/desai.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=CEEGJZJmDF8">[Video]</a>
 * **"Augmenting Differentiable Simulators with Neural Networks to Close the Sim2Real Gap"**<br>
 Eric Heiden, David Millard, Erwin Coumans, Gaurav Sukhatme<br>
 <a href="assets/papers/2020/heiden.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=awhkI5xtFa0">[Video]</a>
@@ -192,9 +194,6 @@ Sharath Chandra Raparthy, Melissa Mozifian, Liam Paull, Florian Golemo<br>
 * **"Continual Learning on Incremental Simulations for Real-World Robotic Manipulation Tasks"**<br>
 Josip Josifovski, Mohammadhossein Malmir, Noah Klarmann, Alois Knoll<br>
 <a href="assets/papers/2020/josifovski.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=UoJolTE6SMg">[Video]</a>
-* **"Extended Abstract: An Imitation from Observation Approach to Sim-to-Real Transfer"**<br>
-Siddharth Desai, Ishan Durugkar, Haresh Karnan, Garrett Warnell, Josiah Hanna, Peter Stone<br>
-<a href="assets/papers/2020/desai.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=CEEGJZJmDF8">[Video]</a>
 * **"How to Sim2Real with Gaussian Processes: Prior Mean versus Kernels as Priors"**<br>
 Rika Antonova, Akshara Rai, Danica Kragic<br>
 <a href="assets/papers/2020/antonova2.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=LVRzfaAU2dw">[Video]</a>
