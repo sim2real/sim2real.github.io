@@ -15,6 +15,7 @@ layout: default
 <a href="#debaters">Invited Debaters</a> &middot;
 <a href="#topics">Debate Topics</a> &middot;
 <a href="#structure">Debate Structure</a> &middot;
+<a href="#results">Debate Results</a> &middot;
 <a href="#call">Call for Contributions</a> &middot;
 <a href="#dates">Important Dates</a> &middot;
 <a href="#papers">Accepted Papers</a> &middot;
@@ -142,6 +143,15 @@ We will adhere to the following debate structure (Total time per debate: 50 min)
 3. Moderated discussion between debaters (15 min)
 4. Closing remarks (10 min = 4 debaters x 2.5 min each)
 
+<a name="results"/>
+
+## Debate Results <a href="#toc" class="top-link">[Top]</a>
+
+|                                                                          | Before the debate | After the debate |
+|--------------------------------------------------------------------------|-------------------|------------------|
+| Debate 1 - Investing into Sim2Real is a waste of time and money          | <img src="assets/debate-results/d1before.png" alt="Debate 1 Before" width="300" />                  | <img src="assets/debate-results/d1after.png" alt="Debate 1 After" width="300" />                 |
+| Debate 2 - Sim2Real is old news. It’s just X                             | <img src="assets/debate-results/d2before.png" alt="Debate 2 Before" width="300" />                  | <img src="assets/debate-results/d2after.png" alt="Debate 2 After" width="300" />                 |
+| Debate 3 - Successful sim2real transfer necessitates accurate simulation | <img src="assets/debate-results/d3before.png" alt="Debate 3 Before" width="300" />                  | <img src="assets/debate-results/d3after.png" alt="Debate 3 After" width="300" />                  |
 
 <a name="call"/>
 
