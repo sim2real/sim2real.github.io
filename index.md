@@ -46,32 +46,36 @@ Previous Workshops:
 ## Videos <a href="#toc" class="top-link">[Top]</a>
 
 <table>
+
 <tr>
-<td width="25%">
-<iframe width="170" height="92" src="https://www.youtube.com/embed/Q-rsvVr2CjE?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<td width="50%">
+<iframe width="340" height="184" src="https://www.youtube.com/embed/Q-rsvVr2CjE?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 
-<td width="25%">
-<iframe width="170" height="92" src="https://www.youtube.com/embed/yHDnv-v6Dj4?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<td width="50%">
+<iframe width="340" height="184" src="https://www.youtube.com/embed/yHDnv-v6Dj4?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+</tr>
+
+<tr>
+<td align="center"> Debate 1:<br/> Why Sim2Real? </td>
+<td align="center"> Debate 2:<br/> What Is Sim2Real? </td>
+</tr>
+
+<td width="50%">
+<iframe width="340" height="184" src="https://www.youtube.com/embed/S8zfYrlahac?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 
-<td width="25%">
-<iframe width="170" height="92" src="https://www.youtube.com/embed/S8zfYrlahac?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</td>
-
-<td width="25%">
-<iframe width="170" height="92" src="https://www.youtube.com/embed/x5hnD1grtLw?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<td width="50%">
+<iframe width="340" height="184" src="https://www.youtube.com/embed/x5hnD1grtLw?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 
 </tr>
 
 <tr>
-<td> Debate 1: Why Sim2Real? </td>
-<td> Debate 2: What Is Sim2Real? </td>
-<td> Debate 3: How to Sim2Real? </td>
+<td align="center"> Debate 3:<br/> How to Sim2Real? </td>
 <td> Panel discussion </td>
 </tr>
-
 
 </table>
 
