@@ -62,6 +62,7 @@ Previous Workshops:
 <td align="center"> Debate 2:<br/> What Is Sim2Real? </td>
 </tr>
 
+<tr>
 <td width="50%">
 <iframe width="340" height="184" src="https://www.youtube.com/embed/S8zfYrlahac?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
@@ -69,7 +70,6 @@ Previous Workshops:
 <td width="50%">
 <iframe width="340" height="184" src="https://www.youtube.com/embed/x5hnD1grtLw?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
-
 </tr>
 
 <tr>
