@@ -383,8 +383,6 @@ Coming soon. Please stay tuned. Announcement will go out to the <a href="https:/
 
 [//]: # ()
 [//]: # (Please check out the [RSS website]&#40;http://roboticsconference.org/attending/venue/&#41; and [Google maps]&#40;https://goo.gl/maps/2iwdEFKUh1m&#41; for more detailed information on the workshop’s location.)
-
-[//]: # (-->)
 -->
 <a name="organizers"/>
 
