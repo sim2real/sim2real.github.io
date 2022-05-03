@@ -13,17 +13,14 @@ layout: default
 <div style="text-align: center; font-size: 0.8em;">
 <a href="#overview">Overview</a> &middot;
 <a href="#debaters">Invited Debaters</a> &middot;
-<!--
-[//]: # (<a href="#topics">Debate Topics</a> &middot;)
-
-[//]: # (<a href="#structure">Debate Structure</a> &middot;)
-
-[//]: # (<a href="#results">Debate Results</a> &middot;)-->
 <a href="#call">Call for Contributions</a> &middot;
 <a href="#dates">Important Dates</a> &middot;
 <!--
+[//]: # (<a href="#topics">Debate Topics</a> &middot;)
+[//]: # (<a href="#structure">Debate Structure</a> &middot;)
+[//]: # (<a href="#results">Debate Results</a> &middot;)-->
+<!--
 [//]: # (<a href="#papers">Accepted Papers</a> &middot;)
-
 [//]: # (<a href="#schedule">Schedule</a> &middot;)
 -->
 <a href="#organizers">Organizers</a>
@@ -123,6 +120,8 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 | <img src="assets/images/speakers/garg.jpg" alt="Animesh Garg" width="300" /> | [Animesh Garg](https://animesh.garg.tech/) (University of Toronto)
 
+| <img src="assets/images/speakers/sadigh.jpg" alt="Dorsa Sadigh" width="300" /> | [Dorsa Sadigh](https://dorsa.fyi//) (Stanford University)
+
 <!--
 [//]: # ()
 [//]: # ()
@@ -186,7 +185,15 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 ## Call for Contributions <a href="#toc" class="top-link">[Top]</a>
 
-Coming soon. Please stay tuned. Announcement will go out to the <a href="https://www.lists.kit.edu/sympa/info/robotics-worldwide">robotics-worldwide mailing list</a>.
+Participants are invited to submit extended abstracts (maximum 2 pages in length, excluding references). We encourage both position papers as well general sim2real submissions.
+
+Accepted abstracts will receive a poster presentation slot and selected submissions will additionally be allowed to give a spotlight presentation for 5min each, ahead of the debate that's most in line with the subject.
+
+Submissions must be in PDF format following the [IEEE style](https://www.ieee.org/conferences/publishing/templates.html).  Submissions must include a short abstract. The extended abstract should go in the main section of the template and the short abstract in the abstract section.
+
+Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission/Index](https://cmt3.research.microsoft.com/Sim2Real2022/Submission/Index)
+
+
 
 [//]: # ()
 [//]: # (Participants are invited to submit **extended abstracts &#40;maximum 2 pages in length, excluding references&#41;**. We encourage justified position papers &#40;wrt. to the aforementioned debate points&#41; but we allow other sim2real-related entries as long as they mention in the submission notes how they relate to one of the subjects &#40;e.g. a work about a new visual grasping sim2real method might mention that it's ONLY reporting sim2sim performance since their simulation is sufficiently detailed&#41;.)
@@ -218,7 +225,10 @@ Coming soon. Please stay tuned. Announcement will go out to the <a href="https:/
 
 [//]: # (* Camera ready **and Video** submission: **July 8th, 2020**)
 -->
+* Paper Submission Deadline: May 31st, 2022
+* Acceptance Notification: June 7th, 2022
 * Workshop: June 27th, 2022 (full day)
+* Main Conference: June 27th - July 1st, 2022
 
 <!--
 [//]: # ()
