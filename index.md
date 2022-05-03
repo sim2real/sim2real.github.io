@@ -44,7 +44,9 @@ Previous Workshops:
 [//]: # ()
 [//]: # (2020-07-13: **Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks! :&#41; Also we've uploaded the poster teasers that the authors provided &#40;see <a href="#papers">Accepted Papers</a>&#41;.)
 
-Workshop got accepted 🎉, currently preparing CMT submission system and announcement.<br>
+**2022 May 3rd:** Added the CMT link and submission instructions. Submissions are now open. Also we're excited to add Dorsa Sadigh as in-person debater to the roster.
+
+**2022 April:** Workshop got accepted 🎉, currently preparing CMT submission system and announcement.<br>
 After 2 years of remote conferences, we're happy to announce that R:SS this year and by extension
 this workshop will allow in-person attendance 🎉🎉🎉.
 
