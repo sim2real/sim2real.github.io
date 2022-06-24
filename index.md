@@ -406,9 +406,12 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
 
 | <img src="assets/images/melissa.jpg" alt="Melissa Mozifian" width="300" />  | [Melissa Mozifian](https://melfm.github.io/about.html) is a PhD Candidate at the School of Computer Science at McGill University. Her research focuses on deep reinforcement learning and transfer for control of robot manipulation tasks.  |
 
+| <img src="assets/images/hongzhuo.png" alt="Hongzhuo Liang" width="300" />  | [Hongzhuo Liang](https://tams.informatik.uni-hamburg.de/people/liang/) is a PhD Candidate at the University of Hamburg, Germany. He has completed his PhD defense in May 2022 and will work as a postdoc at the University of Hamburg. His research focuses on robotic grasping and multimodal deep reinforcement learning for different robotic manipulation skills.  |
+
 | <img src="assets/images/ankur.jpg" alt="Ankur Handa" width="300" />  | [Ankur Handa](https://ankurhanda.github.io/) is a senior research scientist at NVIDIA robotics lab run by Dieter Fox. Prior to that he was a research scientist at OpenAI. He received his Ph.D. with Dr. Andrew Davison and spent two years at University of Cambridge in Prof. Roberto Cipolla’s lab as a post-doctoral researcher.  |
 
 | <img src="assets/images/kostas.jpg" alt="Kostas Bekris" width="300" />  | [Kostas Bekris](https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/) is an Associate Professor at the Computer Science department of Rutgers University and an Amazon Scholar at the Amazon Robotics AI team headed by Siddhartha Srinivasa. He received his PhD with Lydia Kavraki at Rice University.  |
+
 
 <!--
 
