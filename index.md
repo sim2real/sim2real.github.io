@@ -355,10 +355,12 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
 
 [//]: # ()
 [//]: # ()
-[//]: # (<a name="schedule"/>)
+
 
 [//]: # ()
 -->
+<a name="schedule"/>
+
 ## Schedule <a href="#toc" class="top-link">[Top]</a>
 
 <style type="text/css">
