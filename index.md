@@ -44,7 +44,9 @@ Previous Workshops:
 [//]: # ()
 [//]: # (2020-07-13: **Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks! :&#41; Also we've uploaded the poster teasers that the authors provided &#40;see <a href="#papers">Accepted Papers</a>&#41;.)
 
-**2022 June 25th:** Added Schedule.
+**2022 June 25th:** Added Schedule and Ken Goldberg as invited speaker & panelist.
+
+**2022 June 20th:** Added Hongzhuo as additional organizer.
 
 **2022 May 3rd:** Added the CMT link and submission instructions. Submissions are now open. Also we're excited to add Dorsa Sadigh as in-person debater to the roster.
 
@@ -104,9 +106,8 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 <a name="debaters"/>
 
-## Invited Debaters <a href="#toc" class="top-link">[Top]</a>
+## Invited Debaters & Speakers <a href="#toc" class="top-link">[Top]</a>
 
-**=== More speakers will be announced shortly.===**
 
 <div class="debaters"></div>
 
@@ -116,7 +117,11 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 | <img src="assets/images/speakers/hsu.jpg" alt="David Hsu" width="300" /> | [David Hsu](https://www.comp.nus.edu.sg/~dyhsu/) (National University of Singapore)
 
+| <img src="assets/images/speakers/goldberg2.jpg" alt="Ken Goldberg" width="300" /> | [Ken Goldberg](goldberg.berkeley.edu) (UC Berkeley)
+
+<!--
 | <img src="assets/images/speakers/topcu.jpg" alt="Ufuk Topcu" width="300" /> | [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page) (UT Austin)
+-->
 
 | <img src="assets/images/speakers/ramos.jpg" alt="Fabio Ramos" width="300" /> | [Fabio Ramos](https://fabioramos.github.io/Home.html) (Nvidia & University of Sydney)
 
@@ -364,25 +369,19 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
 ## Schedule <a href="#toc" class="top-link">[Top]</a>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+
+.tg td{border-color:black;border-style:solid;border-width:1px;padding:10px 5px;word-break:normal; font-size:14px}
+.tg th{border-color:black;border-style:solid;border-width:1px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-mfxt{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-0thz{border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold">Timeslot</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">Event</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">Speakers</span></th>
+    <th class="tg-0thz" style="width:120px"><span style="font-weight:bold">Timeslot</span></th>
+    <th class="tg-0thz"><span style="font-weight:bold">Event</span></th>
+    <th class="tg-0thz"><span style="font-weight:bold">Speakers</span></th>
   </tr>
 </thead>
 <tbody>
@@ -397,14 +396,14 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
     <td class="tg-lboi">"Learning Agile, Vision-based Drone Flight: from Simulation to Reality",<br>"Toward Real-World Implementation of Deep Reinforcement Learning for Vision-Based Autonomous Drone Navigation with Mission",<br>"A Recurrent Differentiable Physics Engine for Tensegrity Robots",<br>"Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms"</td>
   </tr>
   <tr>
-    <td class="tg-g7sd"><span style="font-weight:bold">10:00 - 10:30</span></td>
-    <td class="tg-g7sd"><span style="font-weight:bold">Coffee Break</span></td>
+    <td class="tg-lboi"><span style="font-weight:bold">10:00 - 10:30</span></td>
+    <td class="tg-lboi"><span style="font-weight:bold">Coffee Break</span></td>
     <td class="tg-lboi"></td>
   </tr>
   <tr>
-    <td class="tg-mfxt">10:30 - 11:30</td>
-    <td class="tg-mfxt">Debate 1 - "Sim2Real is Solved"</td>
-    <td class="tg-lboi"><span style="font-weight:400;font-style:normal">Dorsa Sadigh &amp; </span><br><span style="font-weight:400;font-style:normal">David Hsu</span><br><span style="font-weight:400;font-style:normal">vs.Fabio Ramos &amp; </span><br><span style="font-weight:400;font-style:normal">Animesh Garg, </span></td>
+    <td class="tg-lboi">10:30 - 11:30</td>
+    <td class="tg-lboi">Debate 1 - "Sim2Real is Solved"</td>
+    <td class="tg-lboi"><span style="font-weight:400;font-style:normal">Dorsa Sadigh &amp; </span><br><span style="font-weight:400;font-style:normal">David Hsu</span><br>vs.<br><span style="font-weight:400;font-style:normal">Fabio Ramos &amp; </span><br><span style="font-weight:400;font-style:normal">Animesh Garg </span></td>
   </tr>
   <tr>
     <td class="tg-lboi">11:30 - 12:30</td>
@@ -417,8 +416,8 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
     <td class="tg-lboi"></td>
   </tr>
   <tr>
-    <td class="tg-g7sd"><span style="font-weight:bold">13:00 - 14:00</span></td>
-    <td class="tg-g7sd"><span style="font-weight:bold">Lunch break</span></td>
+    <td class="tg-lboi"><span style="font-weight:bold">13:00 - 14:00</span></td>
+    <td class="tg-lboi"><span style="font-weight:bold">Lunch break</span></td>
     <td class="tg-lboi"></td>
   </tr>
   <tr>
@@ -427,8 +426,8 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
     <td class="tg-lboi">Ken Goldberg (Real2Sim2Real)</td>
   </tr>
   <tr>
-    <td class="tg-mfxt">14:20 - 15:30</td>
-    <td class="tg-mfxt">Panel Discussion</td>
+    <td class="tg-lboi">14:20 - 15:30</td>
+    <td class="tg-lboi">Panel Discussion</td>
     <td class="tg-lboi"><span style="font-weight:400;font-style:normal">Viktor Makoviychuk, </span><br><span style="font-weight:400;font-style:normal">Stefanie Tellex,</span><br><span style="font-weight:400;font-style:normal">Dorsa Sadigh,</span><br><span style="font-weight:400;font-style:normal">Ken Goldberg</span></td>
   </tr>
   <tr>
@@ -437,14 +436,14 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
     <td class="tg-lboi">Daniela Rus (Vista Simulator)</td>
   </tr>
   <tr>
-    <td class="tg-0lax">15:45 - 15:50</td>
-    <td class="tg-0lax">Closing</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-lboi">15:45 - 15:50</td>
+    <td class="tg-lboi">Closing</td>
+    <td class="tg-lboi"></td>
   </tr>
   <tr>
-    <td class="tg-0thz"><span style="font-weight:bold">15:50 - 16:15</span></td>
-    <td class="tg-fymr">Coffee Break &amp; Virtual Poster Session</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-lboi"><span style="font-weight:bold">15:50 - 16:15</span></td>
+    <td class="tg-lboi">Coffee Break &amp; Virtual Poster Session</td>
+    <td class="tg-lboi"></td>
   </tr>
 </tbody>
 </table>

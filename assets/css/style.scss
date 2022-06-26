@@ -62,6 +62,11 @@ th, td {
   font-weight: normal;
 }
 
+.main-content table.tg th,
+.main-content table.tg td{
+  border: 1px solid #e9ebec;
+}
+
 .main-content img {
   max-width: 100px !important;
   max-height: 100px !important;
