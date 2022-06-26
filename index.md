@@ -21,8 +21,8 @@ layout: default
 [//]: # (<a href="#results">Debate Results</a> &middot;)-->
 <!--
 [//]: # (<a href="#papers">Accepted Papers</a> &middot;)
-[//]: # (<a href="#schedule">Schedule</a> &middot;)
 -->
+<a href="#schedule">Schedule</a> &middot;
 <a href="#organizers">Organizers</a>
 </div>
 
@@ -43,6 +43,8 @@ Previous Workshops:
 
 [//]: # ()
 [//]: # (2020-07-13: **Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks! :&#41; Also we've uploaded the poster teasers that the authors provided &#40;see <a href="#papers">Accepted Papers</a>&#41;.)
+
+**2022 June 25th:** Added Schedule.
 
 **2022 May 3rd:** Added the CMT link and submission instructions. Submissions are now open. Also we're excited to add Dorsa Sadigh as in-person debater to the roster.
 
@@ -356,8 +358,96 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
 [//]: # (<a name="schedule"/>)
 
 [//]: # ()
-[//]: # (## Schedule <a href="#toc" class="top-link">[Top]</a>)
+-->
+## Schedule <a href="#toc" class="top-link">[Top]</a>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-g7sd{border-color:inherit;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-mfxt{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0thz{border-color:inherit;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">Timeslot</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Event</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Speakers</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi">09:00 - 09:10</td>
+    <td class="tg-lboi">Welcome</td>
+    <td class="tg-lboi"></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">09:10 - 10:00</td>
+    <td class="tg-lboi">Papers Session 1</td>
+    <td class="tg-lboi">"Learning Agile, Vision-based Drone Flight: from Simulation to Reality",<br>"Toward Real-World Implementation of Deep Reinforcement Learning for Vision-Based Autonomous Drone Navigation with Mission",<br>"A Recurrent Differentiable Physics Engine for Tensegrity Robots",<br>"Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms"</td>
+  </tr>
+  <tr>
+    <td class="tg-g7sd"><span style="font-weight:bold">10:00 - 10:30</span></td>
+    <td class="tg-g7sd"><span style="font-weight:bold">Coffee Break</span></td>
+    <td class="tg-lboi"></td>
+  </tr>
+  <tr>
+    <td class="tg-mfxt">10:30 - 11:30</td>
+    <td class="tg-mfxt">Debate 1 - "Sim2Real is Solved"</td>
+    <td class="tg-lboi"><span style="font-weight:400;font-style:normal">Dorsa Sadigh &amp; </span><br><span style="font-weight:400;font-style:normal">David Hsu</span><br><span style="font-weight:400;font-style:normal">vs.Fabio Ramos &amp; </span><br><span style="font-weight:400;font-style:normal">Animesh Garg, </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">11:30 - 12:30</td>
+    <td class="tg-lboi">Papers Session 2</td>
+    <td class="tg-lboi"><span style="font-weight:400;font-style:normal">"The gap in functional electrical stimulation simulation",</span><br><span style="font-weight:400;font-style:normal">"Towards Sim2Real for Shipwreck Detection in Side Scan Sonar Imagery",</span><br><span style="font-weight:400;font-style:normal">"CaTGrasp: Learning Category-Level Task-Relevant Grasping from Simulation",</span><br><span style="font-weight:400;font-style:normal">"A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments"</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">12:30 - 13:00</td>
+    <td class="tg-lboi">Invited Talk</td>
+    <td class="tg-lboi"></td>
+  </tr>
+  <tr>
+    <td class="tg-g7sd"><span style="font-weight:bold">13:00 - 14:00</span></td>
+    <td class="tg-g7sd"><span style="font-weight:bold">Lunch break</span></td>
+    <td class="tg-lboi"></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">14:00 - 14:20</td>
+    <td class="tg-lboi">Invited Talk</td>
+    <td class="tg-lboi">Ken Goldberg (Real2Sim2Real)</td>
+  </tr>
+  <tr>
+    <td class="tg-mfxt">14:20 - 15:30</td>
+    <td class="tg-mfxt">Panel Discussion</td>
+    <td class="tg-lboi"><span style="font-weight:400;font-style:normal">Viktor Makoviychuk, </span><br><span style="font-weight:400;font-style:normal">Stefanie Tellex,</span><br><span style="font-weight:400;font-style:normal">Dorsa Sadigh,</span><br><span style="font-weight:400;font-style:normal">Ken Goldberg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">15:30 - 15:45</td>
+    <td class="tg-lboi">Invited Talk</td>
+    <td class="tg-lboi">Daniela Rus (Vista Simulator)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15:45 - 15:50</td>
+    <td class="tg-0lax">Closing</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0thz"><span style="font-weight:bold">15:50 - 16:15</span></td>
+    <td class="tg-fymr">Coffee Break &amp; Virtual Poster Session</td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
+<!--
 [//]: # ()
 [//]: # (Taking inspiration from the ICRA 2019 Debates on the Future of Robotics Research, the workshop will consist of three debates. Every debates focuses on a single key question and is structured as follows:)
 
