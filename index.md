@@ -15,13 +15,7 @@ layout: default
 <a href="#debaters">Invited Debaters</a> &middot;
 <a href="#call">Call for Contributions</a> &middot;
 <a href="#dates">Important Dates</a> &middot;
-<!--
-[//]: # (<a href="#topics">Debate Topics</a> &middot;)
-[//]: # (<a href="#structure">Debate Structure</a> &middot;)
-[//]: # (<a href="#results">Debate Results</a> &middot;)-->
-<!--
-[//]: # (<a href="#papers">Accepted Papers</a> &middot;)
--->
+<a href="#papers">Accepted Papers</a> &middot;
 <a href="#schedule">Schedule</a> &middot;
 <a href="#organizers">Organizers</a>
 </div>
@@ -39,10 +33,7 @@ Previous Workshops:
 
 ## Updates
 
-[//]: # (2020-07-14: **Post-Workshop Update 2**. We have uploaded all recordings of both the debates and panel discussion: <a href="#videos">Videos</a>)
-
-[//]: # ()
-[//]: # (2020-07-13: **Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks! :&#41; Also we've uploaded the poster teasers that the authors provided &#40;see <a href="#papers">Accepted Papers</a>&#41;.)
+**2022 June 28th: Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks, you're awesome! ❤️ Also we've uploaded the accepted papers in their preliminary version, see <a href="#papers">Accepted Papers</a>.
 
 **2022 June 27th:** Accepted papers will be posted on this page tonight. Added Greg Chirikjian in the 12:30-1pm slot as invited speaker.
 
@@ -115,15 +106,11 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 | <img src="assets/images/speakers/rus.jpg" alt="Daniela Rus" width="300" /> | [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus/) (MIT)
 
-| <img src="assets/images/speakers/kumar.jpg" alt="Vijay Kumar" width="300" /> | [Vijay Kumar](https://www.kumarrobotics.org/) (UPenn)
-
 | <img src="assets/images/speakers/hsu.jpg" alt="David Hsu" width="300" /> | [David Hsu](https://www.comp.nus.edu.sg/~dyhsu/) (National University of Singapore)
 
 | <img src="assets/images/speakers/goldberg2.jpg" alt="Ken Goldberg" width="300" /> | [Ken Goldberg](goldberg.berkeley.edu) (UC Berkeley)
 
-<!--
-| <img src="assets/images/speakers/topcu.jpg" alt="Ufuk Topcu" width="300" /> | [Ufuk Topcu](http://www.ae.utexas.edu/facultysites/topcu/wiki/index.php/Main_Page) (UT Austin)
--->
+| <img src="assets/images/speakers/chirikjian.jpg" alt="Gregory Chirikjian" width="300" /> | [Gregory Chirikjian](https://cde.nus.edu.sg/me/staff/chirikjian-gregory-s/) (National University of Singapore)
 
 | <img src="assets/images/speakers/ramos.jpg" alt="Fabio Ramos" width="300" /> | [Fabio Ramos](https://fabioramos.github.io/Home.html) (Nvidia & University of Sydney)
 
@@ -133,65 +120,6 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 | <img src="assets/images/speakers/sadigh.jpg" alt="Dorsa Sadigh" width="300" /> | [Dorsa Sadigh](https://dorsa.fyi//) (Stanford University)
 
-<!--
-[//]: # ()
-[//]: # ()
-[//]: # (<a name="topics"/>)
-
-[//]: # ()
-[//]: # (## Debate Topics <a href="#toc" class="top-link">[Top]</a>)
-
-[//]: # ()
-[//]: # (In contrast to the R:SS 2019 edition, we changed the format from invited talks to **debates**. Each debate will focus on a key - rather controversial - statement regarding Sim2Real, and will be discussed by two proponents and two opponents of that statement. Each debate consists of short introductory pitches by the two sides, providing an opportunity to presenters to also highlight their work, followed by a moderated discussion. An example list of statements includes:)
-
-[//]: # ()
-[//]: # (> *Why* sim2real? - "Investing into Sim2Real is a waste of time and money“)
-
-[//]: # ()
-[//]: # (> *What* is sim2real? - "Sim2Real is old news. It’s just X &#40;X=model-based RL, X=domain randomization, X=system identification, ...&#41;")
-
-[//]: # ()
-[//]: # (> *How* to sim2real? -  "For successful sim2real transfer, there is no alternative to accurate simulation.“)
-
-[//]: # ()
-[//]: # ()
-[//]: # (<a name="structure"/>)
-
-[//]: # ()
-[//]: # (## Debate Structure <a href="#toc" class="top-link">[Top]</a>)
-
-[//]: # ()
-[//]: # (We will adhere to the following debate structure &#40;Total time per debate: 50 min&#41;)
-
-[//]: # ()
-[//]: # (1. Introductions &#40;5 min = 4 debaters x ~1 min each&#41;)
-
-[//]: # (2. Opening arguments &#40;20 min = 4 debaters x 5 min each&#41;)
-
-[//]: # (3. Moderated discussion between debaters &#40;15 min&#41;)
-
-[//]: # (4. Closing remarks &#40;10 min = 4 debaters x 2.5 min each&#41;)
-
-[//]: # ()
-[//]: # (<a name="results"/>)
-
-[//]: # ()
-[//]: # (## Debate Results <a href="#toc" class="top-link">[Top]</a>)
-
-[//]: # ()
-[//]: # (Through rigorous application of the scientific method, we've established absolutely waterproof statistics on how the debate changed people's minds:)
-
-[//]: # (<br><span style="color:LightGray">&#40;Disclaimer: The results may not be statistically significant, the results may have been obtained from different populations, the results may contains nuts&#41;<span>)
-
-[//]: # ()
-[//]: # (|--------------------------------------------------------------------------|-------------------|------------------|)
-
-[//]: # (| Debate 1 - "Investing into Sim2Real is a waste of time and money"          | <img src="assets/debate-results/d1before.png" alt="Debate 1 Before" width="300" style="max-width:313px !important; max-height: 186px !important" />                  | <img src="assets/debate-results/d1after.png" alt="Debate 1 After" width="300" style="max-width:313px !important; max-height: 186px !important" />                 |)
-
-[//]: # (| Debate 2 - "Sim2Real is old news. It’s just X..."                             | <img src="assets/debate-results/d2before.png" alt="Debate 2 Before" width="300" style="max-width:313px !important; max-height: 186px !important" />                  | <img src="assets/debate-results/d2after.png" alt="Debate 2 After" width="300" style="max-width:313px !important; max-height: 186px !important" />                 |)
-
-[//]: # (| Debate 3 - "Successful sim2real transfer necessitates accurate simulation" | <img src="assets/debate-results/d3before.png" alt="Debate 3 Before" width="300" style="max-width:313px !important; max-height: 186px !important" />                  | <img src="assets/debate-results/d3after.png" alt="Debate 3 After" width="300" style="max-width:313px !important; max-height: 186px !important" />                  |)
--->
 <a name="call"/>
 
 ## Call for Contributions <a href="#toc" class="top-link">[Top]</a>
@@ -205,167 +133,52 @@ Submissions must be in PDF format following the [IEEE style](https://www.ieee.or
 Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission/Index](https://cmt3.research.microsoft.com/Sim2Real2022/Submission/Index)
 
 
-
-[//]: # ()
-[//]: # (Participants are invited to submit **extended abstracts &#40;maximum 2 pages in length, excluding references&#41;**. We encourage justified position papers &#40;wrt. to the aforementioned debate points&#41; but we allow other sim2real-related entries as long as they mention in the submission notes how they relate to one of the subjects &#40;e.g. a work about a new visual grasping sim2real method might mention that it's ONLY reporting sim2sim performance since their simulation is sufficiently detailed&#41;.)
-
-[//]: # ()
-[//]: # (Accepted abstracts will be given the opportunity to record a short pitch video, and receive an online Q&A slot during the live session of the virtual workshop.)
-
-[//]: # ()
-[//]: # (* Submissions must not exceed *2 pages in length, excluding references*.)
-
-[//]: # (* Submissions must be in PDF following the IEEE style available from<br/>)
-
-[//]: # (  [https://www.ieee.org/conferences/publishing/templates.html]&#40;https://www.ieee.org/conferences/publishing/templates.html&#41;)
-
-[//]: # (* Submissions must include a short abstract. The *extended abstract* should go in the main section of the template and the *short abstract* in the abstract section.)
-
-[//]: # (* Anonymous submissions are not required.)
-
-[//]: # ()
-[//]: # (**Submission website:** [https://cmt3.research.microsoft.com/SIMREALRM2020]&#40;https://cmt3.research.microsoft.com/SIMREALRM2020&#41;)
-
 <a name="dates"/>
 
 ## Important dates <a href="#toc" class="top-link">[Top]</a>
-<!--
-[//]: # (* Submission Deadline: **June 26th, 2020** AoE time &#40;UTC-12&#41;)
 
-[//]: # (* Notification of Acceptance: **July 6th, 2020** <s>July 1st, 2020</s>)
-
-[//]: # (* Camera ready **and Video** submission: **July 8th, 2020**)
--->
 * Paper Submission Deadline: May 31st, 2022
 * Acceptance Notification: June 7th, 2022
 * Workshop: June 27th, 2022 (full day)
 * Main Conference: June 27th - July 1st, 2022
 
-<!--
-[//]: # ()
-[//]: # (<a name="papers"/>)
+<a name="papers"/>
 
-[//]: # ()
-[//]: # (## Accepted Papers <a href="#toc" class="top-link">[Top]</a>)
+## Accepted Papers <a href="#toc" class="top-link">[Top]</a>
 
-[//]: # ()
-[//]: # (&#40;ordered by title&#41;)
+* **"A Framework for Curriculum Schema Transfer from Low-Fidelity to High-Fidelity Environments"**<br>
+  Yash Shukla, Jivko Sinapov<br>
+<a href="assets/papers/2022/shukla.pdf">[PDF]</a>
 
-[//]: # ()
-[//]: # (* **"Accurate High Fidelity Simulations for Training Robot Navigation Policies for Dense Crowds using Deep Reinforcement Learning"**<br>)
+* **"A Recurrent Differentiable Physics Engine for Tensegrity Robots"**<br>
+  Kun Wang, Mridul Aanjaneya, Kostas Bekris<br>
+<a href="assets/papers/2022/wang.pdf">[PDF]</a>
 
-[//]: # (Jing Liang, Utsav Patel, Adarsh Jagan Sathyamoorthy, Dinesh Manocha<br>)
+* **"CaTGrasp: Learning Category-Level Task-Relevant Grasping from Simulation"**<br>
+  Bowen Wen, Wenzhao Lian; Kostas Bekris; Stefan Schaal<br>
+<a href="assets/papers/2022/wen.pdf">[PDF]</a>
 
-[//]: # (<a href="assets/papers/2020/liang.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=3qAChP_6PVY">[Video]</a>)
+* **"Closing the Sim-to-Real Gap for Ultra-Low-Cost, Resource-Constrained, Quadruped Robot Platforms"**<br>
+  Jason Jabbour; Sabrina Neuman; Mark Mazumder; Colby Banbury; Shvetank Prakash; Brian Plancher; Vijay Janapa Reddi<br>
+<a href="assets/papers/2022/jabbour.pdf">[PDF]</a>
 
-[//]: # (* **"An Imitation from Observation Approach to Sim-to-Real Transfer"**<br>)
+* **"Learning Agile, Vision-based Drone Flight: from Simulation to Reality"**<br>
+  Davide Scaramuzza, Elia Kaufmann<br>
+<a href="assets/papers/2022/scaramuzza.pdf">[PDF]</a>
 
-[//]: # (Siddharth Desai, Ishan Durugkar, Haresh Karnan, Garrett Warnell, Josiah Hanna, Peter Stone<br>)
+* **"The gap in functional electrical stimulation simulation"**<br>
+  Aran Sena; Hossein Kavianirad; Satoshi Endo; Etienne Burdet; Sandra Hirche<br>
+<a href="assets/papers/2022/sena.pdf">[PDF]</a>
 
-[//]: # (<a href="assets/papers/2020/desai.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=CEEGJZJmDF8">[Video]</a>)
+* **"Toward Real-World Implementation of Deep Reinforcement Learning for Vision-Based Autonomous Drone Navigation with Mission"**<br>
+  Mozhgan Navardi; Prakhar Dixit; Tejaswini Manjunath; Nicholas R Waytowich; Tinoosh Mohseninn; Tim Oates<br>
+<a href="assets/papers/2022/navardi.pdf">[PDF]</a>
 
-[//]: # (* **"Augmenting Differentiable Simulators with Neural Networks to Close the Sim2Real Gap"**<br>)
-
-[//]: # (Eric Heiden, David Millard, Erwin Coumans, Gaurav Sukhatme<br>)
-
-[//]: # (<a href="assets/papers/2020/heiden.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=awhkI5xtFa0">[Video]</a>)
-
-[//]: # (* **"BlenderProc: Reducing the Reality Gap with Photorealistic Rendering"**<br>)
-
-[//]: # (Maximilian Denninger, Martin Sundermeyer, Dominik Winkelbauer, Dmitry Olefir, Tomas Hodan, Youssef Zidan, Mohamad Elbadrawy, Markus Knauer, Harinandan Katam, Ahsan Lodhi<br>)
-
-[//]: # (<a href="assets/papers/2020/denninger.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=tQ59iGVnJWM">[Video]</a>)
-
-[//]: # (* **"CuNAS - CUriosity-driven Neural-Augmented Simulator"**<br>)
-
-[//]: # (Sharath Chandra Raparthy, Melissa Mozifian, Liam Paull, Florian Golemo<br>)
-
-[//]: # (<a href="assets/papers/2020/raparthy.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=Tlf5RG3OPF8">[Video]</a>)
-
-[//]: # (* **"Continual Learning on Incremental Simulations for Real-World Robotic Manipulation Tasks"**<br>)
-
-[//]: # (Josip Josifovski, Mohammadhossein Malmir, Noah Klarmann, Alois Knoll<br>)
-
-[//]: # (<a href="assets/papers/2020/josifovski.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=UoJolTE6SMg">[Video]</a>)
-
-[//]: # (* **"How to Sim2Real with Gaussian Processes: Prior Mean versus Kernels as Priors"**<br>)
-
-[//]: # (Rika Antonova, Akshara Rai, Danica Kragic<br>)
-
-[//]: # (<a href="assets/papers/2020/antonova2.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=LVRzfaAU2dw">[Video]</a>)
-
-[//]: # (* **"Learning Predictive Representations for Deformable Objects with Contrastive Estimation"**<br>)
-
-[//]: # (Wilson Yan, Ashwin Vangipuram, Pieter Abbeel, Lerrel Pinto<br>)
-
-[//]: # (<a href="assets/papers/2020/yan.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=LLFfPbirwHk">[Video]</a>)
-
-[//]: # (* **"Learning to Manipulate Deformable Objects without Demonstrations"**<br>)
-
-[//]: # (Yilin Wu, Wilson Yan, Thanard Kurutach, Lerrel Pinto, Pieter Abbeel<br>)
-
-[//]: # (<a href="assets/papers/2020/wu.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=nYCC2T_Tw-U">[Video]</a>)
-
-[//]: # (* **"Learning to Walk without Dynamics Randomization"**<br>)
-
-[//]: # (Jeremy Dao, Helei Duan, Kevin Green, Jonathan Hurst, Alan Fern<br>)
-
-[//]: # (<a href="assets/papers/2020/dao.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=nyFA_s6NReA">[Video]</a>)
-
-[//]: # (* **"Modular Latent Space Transfer with Analytic Manifold Learning"**<br>)
-
-[//]: # (Rika Antonova, Maksim Maydanskiy, Danica Kragic, Sam Devlin, Katja Hofmann<br>)
-
-[//]: # (<a href="assets/papers/2020/antonova.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=6J_J6kFemLM">[Video]</a>)
-
-[//]: # (* **"Necessity for More Realistic Contact Simulation"**<br>)
-
-[//]: # (Mabel Zhang<br>)
-
-[//]: # (<a href="assets/papers/2020/zhang2.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=n24pH69mWjo">[Video]</a>)
-
-[//]: # (* **"On Assessing the Value of Simulation for Robotics"**<br>)
-
-[//]: # (Liam Paull, Anthony Courchesne<br>)
-
-[//]: # (<a href="assets/papers/2020/paull.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=VsayHLDXWDg">[Video]</a>)
-
-[//]: # (* **"Online BayesSim for Combined Simulator Parameter Inference and Policy Improvement"**<br>)
-
-[//]: # (Rafael Possas, Fabio Ramos, Dieter Fox, Lucas Barcelos, Rafael Oliveira<br>)
-
-[//]: # (<a href="assets/papers/2020/possas.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=PnT_dO745JY">[Video]</a>)
-
-[//]: # (* **"Robust Sim2Real Transfer by Learning Inverse Dynamics of Simulated Systems"**<br>)
-
-[//]: # (Mohammadhossein Malmir, Josip Josifovski, Noah Klarmann, Alois Knoll<br>)
-
-[//]: # (<a href="assets/papers/2020/malmir.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=LyqMkguLDe8">[Video]</a>)
-
-[//]: # (* **"Sim2Real Learning of Vision-based Obstacle Avoidance for Robotic Manipulators"**<br>)
-
-[//]: # (Kefang Zhang, Tan Zhang, Jiatao Lin, Lv Bi<br>)
-
-[//]: # (<a href="assets/papers/2020/zhang.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=7_d6nu0iV70">[Video]</a>)
-
-[//]: # (* **"Sim2Real Predictivity: Does Evaluation in Simulation Predict Real-World Performance?"**<br>)
-
-[//]: # (Abhishek Kadian, Joanne Truong, Aaron Gokaslan, Alexander Clegg, Erik Wijmans, Stefan Lee, Manolis Savva, Sonia Chernova, Dhruv Batra<br>)
-
-[//]: # (<a href="assets/papers/2020/kadian.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=Hun2rhgnWLU">[Video]</a>)
-
-[//]: # (* **"The Importance and the Limitations of Sim2Real for Robotic Manipulation in Precision Agriculture"**<br>)
-
-[//]: # (Carlo Rizzardo, SUNNY KATYARA, Miguel Fernandes, Fei Chen<br>)
-
-[//]: # (<a href="assets/papers/2020/rizzardo.pdf">[PDF]</a> <a href="https://www.youtube.com/watch?v=gi-ffG6B5yA">[Video]</a>)
-
-[//]: # ()
-[//]: # ()
+* **"Towards Sim2Real for Shipwreck Detection in Side Scan Sonar Imagery"**<br>
+  Advaith V Sethuraman; Katherine A Skinner<br>
+<a href="assets/papers/2022/sethuraman.pdf">[PDF]</a>
 
 
-[//]: # ()
--->
 <a name="schedule"/>
 
 ## Schedule <a href="#toc" class="top-link">[Top]</a>
