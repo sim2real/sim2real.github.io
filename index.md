@@ -35,7 +35,9 @@ Previous Workshops:
 
 **2022 June 28th: Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks, you're awesome! ❤️ Also we've uploaded the accepted papers in their preliminary version, see <a href="#papers">Accepted Papers</a>.
 
+<!--
 **2022 June 27th:** IMPORTANT: **GatherTown **link here (virtual poster session is 3:50-4:15PM): https://app.gather.town/app/E4ffpRVF5EkQOEld/RSS%20Sim2Real%20Wrkshp%202022
+-->
 
 **2022 June 27th:** Accepted papers will be posted on this page tonight. Added Greg Chirikjian in the 12:30-1pm slot as invited speaker.
 
