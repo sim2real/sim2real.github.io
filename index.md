@@ -171,7 +171,7 @@ Submission website: [https://cmt3.research.microsoft.com/Sim2Real2022/Submission
 
 * **"Learning Agile, Vision-based Drone Flight: from Simulation to Reality"**<br>
   Davide Scaramuzza, Elia Kaufmann<br>
-<a href="assets/papers/2022/scaramuzza.pdf">[PDF]</a>
+<a href="#">(Sorry, PDF not available. Please reach out to Davide)</a>
 
 * **"The gap in functional electrical stimulation simulation"**<br>
   Aran Sena; Hossein Kavianirad; Satoshi Endo; Etienne Burdet; Sandra Hirche<br>
