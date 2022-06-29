@@ -33,6 +33,9 @@ Previous Workshops:
 
 ## Updates
 
+
+<img src="assets/images/rss22-crowd-merged.jpeg" alt="R:SS 2022 crowd" style="width:100%; max-width: 100% !important; max-height: none !important;" />
+
 **2022 June 28th: Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks, you're awesome! ❤️ Also we've uploaded the accepted papers in their preliminary version, see <a href="#papers">Accepted Papers</a>.
 
 <!--
