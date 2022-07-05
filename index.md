@@ -11,6 +11,7 @@ layout: default
 <a name="toc"/>
 
 <div style="text-align: center; font-size: 0.8em;">
+<a href="#videos">Videos</a> &middot;
 <a href="#overview">Overview</a> &middot;
 <a href="#debaters">Invited Debaters</a> &middot;
 <a href="#call">Call for Contributions</a> &middot;
@@ -36,6 +37,8 @@ Previous Workshops:
 
 <img src="assets/images/rss22-crowd-merged.jpeg" alt="R:SS 2022 crowd" style="width:100%; max-width: 100% !important; max-height: none !important;" />
 
+**2022 July 5th: Post-Workshop Update 2**. Uploaded the videos of the debate and panel. See <a href="#videos">Videos</a>
+
 **2022 June 28th: Post-Workshop Update 1**. We'd love to send a thanks out to all debaters, authors, and participants that helped make this workshop so great! Thanks folks, you're awesome! ❤️ Also we've uploaded the accepted papers in their preliminary version, see <a href="#papers">Accepted Papers</a>.
 
 <!--
@@ -54,7 +57,7 @@ Previous Workshops:
 After 2 years of remote conferences, we're happy to announce that R:SS this year and by extension
 this workshop will allow in-person attendance 🎉🎉🎉.
 
-<!--
+
 <a name="videos"/>
 ## Videos <a href="#toc" class="top-link">[Top]</a>
 
@@ -62,19 +65,20 @@ this workshop will allow in-person attendance 🎉🎉🎉.
 
 <tr>
 <td width="50%">
-<iframe width="340" height="184" src="https://www.youtube.com/embed/Q-rsvVr2CjE?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="184" src="https://www.youtube.com/embed/3-o22Q67c2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 
 <td width="50%">
-<iframe width="340" height="184" src="https://www.youtube.com/embed/yHDnv-v6Dj4?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="340" height="184" src="https://www.youtube.com/embed/pMx42rQDd4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 </tr>
 
-<tr>
-<td align="center"> Debate 1:<br/> Why Sim2Real? </td>
-<td align="center"> Debate 2:<br/> What Is Sim2Real? </td>
-</tr>
 
+<tr>
+<td align="center"> Debate:<br/> Is Sim2Real Solved? </td>
+<td align="center"> Panel Discussion:<br/> What matters in Sim2Real?</td>
+</tr>
+<!--
 <tr>
 <td width="50%">
 <iframe width="340" height="184" src="https://www.youtube.com/embed/S8zfYrlahac?list=PLKUnyDCkD3O_BHMiGuP7V38KEUSzVGJb0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -89,9 +93,9 @@ this workshop will allow in-person attendance 🎉🎉🎉.
 <td align="center"> Debate 3:<br/> How to Sim2Real? </td>
 <td> Panel discussion </td>
 </tr>
-
-</table>
 -->
+</table>
+
 
 <a name="overview"/>
 
