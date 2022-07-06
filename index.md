@@ -131,6 +131,8 @@ In this workshop we invite well-known researchers to debate the state of the art
 
 | <img src="assets/images/speakers/sadigh.jpg" alt="Dorsa Sadigh" width="300" /> | [Dorsa Sadigh](https://dorsa.fyi//) (Stanford University)
 
+| <img src="assets/images/speakers/makoviychuk.jpg" alt="Viktor Makoviychuk" width="300" /> | [Viktor](https://twitter.com/viktor_m81) [Makoviychuk](https://scholar.google.com/citations?user=rmAcDNkAAAAJ&hl=en) (Nvidia)
+
 <a name="call"/>
 
 ## Call for Contributions <a href="#toc" class="top-link">[Top]</a>
